@@ -1,0 +1,305 @@
+Source,Type,Target,Weight
+Adam,Undirected,Anima Infelix,1
+Adam,Undirected,Daemones,1
+Adam,Undirected,Diabolus,1
+Adam,Undirected,Eva,1
+Adam,Undirected,Ihesus,1
+Adam,Undirected,Lucifer,1
+Adam,Undirected,Prima Anima,1
+Adam,Undirected,Primus Angelus,1
+Adam,Undirected,Quarta Anima,1
+Adam,Undirected,Quinta Anima,1
+Adam,Undirected,Sathanas,1
+Adam,Undirected,Secunda Anima,1
+Adam,Undirected,Secundus Angelus,1
+Adam,Undirected,Septima Anima,1
+Adam,Undirected,Sexta Anima,1
+Adam,Undirected,Tertia Anima,1
+Adam,Undirected,Tertius Angelus,1
+Ancilla,Undirected,Lasterbalk,1
+Ancilla,Undirected,Mercator,1
+Ancilla,Undirected,Prima Maria,1
+Ancilla,Undirected,Pusterbalk,1
+Ancilla,Undirected,Rubin,1
+Ancilla,Undirected,Secunda Maria,1
+Ancilla,Undirected,Tertia Maria,1
+Ancilla,Undirected,Uxor Mercatori,1
+Anima Infelix,Undirected,Daemones,1
+Anima Infelix,Undirected,Diabolus,1
+Anima Infelix,Undirected,Eva,1
+Anima Infelix,Undirected,Ihesus,1
+Anima Infelix,Undirected,Lucifer,1
+Anima Infelix,Undirected,Prima Anima,1
+Anima Infelix,Undirected,Primus Angelus,1
+Anima Infelix,Undirected,Quarta Anima,1
+Anima Infelix,Undirected,Quinta Anima,1
+Anima Infelix,Undirected,Sathanas,1
+Anima Infelix,Undirected,Secunda Anima,1
+Anima Infelix,Undirected,Secundus Angelus,1
+Anima Infelix,Undirected,Septima Anima,1
+Anima Infelix,Undirected,Sexta Anima,1
+Anima Infelix,Undirected,Tertia Anima,1
+Anima Infelix,Undirected,Tertius Angelus,1
+Daemones,Undirected,Diabolus,1
+Daemones,Undirected,Eva,1
+Daemones,Undirected,Ihesus,1
+Daemones,Undirected,Lucifer,1
+Daemones,Undirected,Prima Anima,1
+Daemones,Undirected,Primus Angelus,1
+Daemones,Undirected,Quarta Anima,1
+Daemones,Undirected,Quinta Anima,1
+Daemones,Undirected,Sathanas,1
+Daemones,Undirected,Secunda Anima,1
+Daemones,Undirected,Secundus Angelus,1
+Daemones,Undirected,Septima Anima,1
+Daemones,Undirected,Sexta Anima,1
+Daemones,Undirected,Tertia Anima,1
+Daemones,Undirected,Tertius Angelus,1
+Diabolus,Undirected,Eva,1
+Diabolus,Undirected,Ihesus,1
+Diabolus,Undirected,Lucifer,1
+Diabolus,Undirected,Prima Anima,1
+Diabolus,Undirected,Primus Angelus,1
+Diabolus,Undirected,Quarta Anima,1
+Diabolus,Undirected,Quinta Anima,1
+Diabolus,Undirected,Sathanas,1
+Diabolus,Undirected,Secunda Anima,1
+Diabolus,Undirected,Secundus Angelus,1
+Diabolus,Undirected,Septima Anima,1
+Diabolus,Undirected,Sexta Anima,1
+Diabolus,Undirected,Tertia Anima,1
+Diabolus,Undirected,Tertius Angelus,1
+Eva,Undirected,Ihesus,1
+Eva,Undirected,Lucifer,1
+Eva,Undirected,Prima Anima,1
+Eva,Undirected,Primus Angelus,1
+Eva,Undirected,Quarta Anima,1
+Eva,Undirected,Quinta Anima,1
+Eva,Undirected,Sathanas,1
+Eva,Undirected,Secunda Anima,1
+Eva,Undirected,Secundus Angelus,1
+Eva,Undirected,Septima Anima,1
+Eva,Undirected,Sexta Anima,1
+Eva,Undirected,Tertia Anima,1
+Eva,Undirected,Tertius Angelus,1
+Expositor,Undirected,Pilatus,1
+Expositor,Undirected,Primus Miles,1
+Expositor,Undirected,Quartus Miles,1
+Expositor,Undirected,Secundus Miles,1
+Expositor,Undirected,Tertius Miles,1
+Ihesus,Undirected,Iohannes,1
+Ihesus,Undirected,Lucifer,1
+Ihesus,Undirected,Nuntius,1
+Ihesus,Undirected,Petrus,1
+Ihesus,Undirected,Pilatus,1
+Ihesus,Undirected,Prima Anima,1
+Ihesus,Undirected,Prima Maria,1
+Ihesus,Undirected,Primus Angelus,3
+Ihesus,Undirected,Primus Miles,1
+Ihesus,Undirected,Quarta Anima,1
+Ihesus,Undirected,Quartus Miles,1
+Ihesus,Undirected,Quinta Anima,1
+Ihesus,Undirected,Sathanas,1
+Ihesus,Undirected,Secunda Anima,1
+Ihesus,Undirected,Secunda Maria,1
+Ihesus,Undirected,Secundus Angelus,3
+Ihesus,Undirected,Secundus Miles,1
+Ihesus,Undirected,Septima Anima,1
+Ihesus,Undirected,Sexta Anima,1
+Ihesus,Undirected,Tertia Anima,1
+Ihesus,Undirected,Tertia Maria,1
+Ihesus,Undirected,Tertius Angelus,3
+Ihesus,Undirected,Tertius Miles,1
+Ihesus,Undirected,Thomas,1
+Iohannes,Undirected,Petrus,1
+Iohannes,Undirected,Prima Maria,1
+Iohannes,Undirected,Primus Angelus,1
+Iohannes,Undirected,Secunda Maria,1
+Iohannes,Undirected,Secundus Angelus,1
+Iohannes,Undirected,Tertia Maria,1
+Iohannes,Undirected,Tertius Angelus,1
+Iohannes,Undirected,Thomas,1
+Lasterbalk,Undirected,Mercator,1
+Lasterbalk,Undirected,Prima Maria,1
+Lasterbalk,Undirected,Pusterbalk,1
+Lasterbalk,Undirected,Rubin,1
+Lasterbalk,Undirected,Secunda Maria,1
+Lasterbalk,Undirected,Tertia Maria,1
+Lasterbalk,Undirected,Uxor Mercatori,1
+Lucifer,Undirected,Prima Anima,1
+Lucifer,Undirected,Primus Angelus,1
+Lucifer,Undirected,Quarta Anima,1
+Lucifer,Undirected,Quinta Anima,1
+Lucifer,Undirected,Sathanas,1
+Lucifer,Undirected,Secunda Anima,1
+Lucifer,Undirected,Secundus Angelus,1
+Lucifer,Undirected,Septima Anima,1
+Lucifer,Undirected,Sexta Anima,1
+Lucifer,Undirected,Tertia Anima,1
+Lucifer,Undirected,Tertius Angelus,1
+Mercator,Undirected,Prima Maria,1
+Mercator,Undirected,Pusterbalk,1
+Mercator,Undirected,Rubin,1
+Mercator,Undirected,Secunda Maria,1
+Mercator,Undirected,Tertia Maria,1
+Mercator,Undirected,Uxor Mercatori,1
+Nuntius,Undirected,Pilatus,2
+Nuntius,Undirected,Primus Angelus,2
+Nuntius,Undirected,Primus Judaeus,1
+Nuntius,Undirected,Primus Miles,1
+Nuntius,Undirected,Quartus Judaeus,1
+Nuntius,Undirected,Quartus Miles,1
+Nuntius,Undirected,Secundus Angelus,2
+Nuntius,Undirected,Secundus Judaeus,1
+Nuntius,Undirected,Secundus Miles,1
+Nuntius,Undirected,Servus,1
+Nuntius,Undirected,Tertius Angelus,2
+Nuntius,Undirected,Tertius Judaeus,1
+Nuntius,Undirected,Tertius Miles,1
+Petrus,Undirected,Prima Maria,1
+Petrus,Undirected,Primus Angelus,1
+Petrus,Undirected,Secunda Maria,1
+Petrus,Undirected,Secundus Angelus,1
+Petrus,Undirected,Tertia Maria,1
+Petrus,Undirected,Tertius Angelus,1
+Petrus,Undirected,Thomas,1
+Pilatus,Undirected,Primus Angelus,2
+Pilatus,Undirected,Primus Judaeus,1
+Pilatus,Undirected,Primus Miles,2
+Pilatus,Undirected,Quartus Judaeus,1
+Pilatus,Undirected,Quartus Miles,2
+Pilatus,Undirected,Secundus Angelus,2
+Pilatus,Undirected,Secundus Judaeus,1
+Pilatus,Undirected,Secundus Miles,2
+Pilatus,Undirected,Servus,1
+Pilatus,Undirected,Tertius Angelus,2
+Pilatus,Undirected,Tertius Judaeus,1
+Pilatus,Undirected,Tertius Miles,2
+Prima Anima,Undirected,Primus Angelus,1
+Prima Anima,Undirected,Quarta Anima,1
+Prima Anima,Undirected,Quinta Anima,1
+Prima Anima,Undirected,Sathanas,1
+Prima Anima,Undirected,Secunda Anima,1
+Prima Anima,Undirected,Secundus Angelus,1
+Prima Anima,Undirected,Septima Anima,1
+Prima Anima,Undirected,Sexta Anima,1
+Prima Anima,Undirected,Tertia Anima,1
+Prima Anima,Undirected,Tertius Angelus,1
+Prima Maria,Undirected,Primus Angelus,1
+Prima Maria,Undirected,Pusterbalk,1
+Prima Maria,Undirected,Rubin,1
+Prima Maria,Undirected,Secunda Maria,3
+Prima Maria,Undirected,Secundus Angelus,1
+Prima Maria,Undirected,Tertia Maria,3
+Prima Maria,Undirected,Tertius Angelus,1
+Prima Maria,Undirected,Thomas,1
+Prima Maria,Undirected,Uxor Mercatori,1
+Primus Angelus,Undirected,Primus Judaeus,1
+Primus Angelus,Undirected,Primus Miles,1
+Primus Angelus,Undirected,Quarta Anima,1
+Primus Angelus,Undirected,Quartus Judaeus,1
+Primus Angelus,Undirected,Quartus Miles,1
+Primus Angelus,Undirected,Quinta Anima,1
+Primus Angelus,Undirected,Sathanas,1
+Primus Angelus,Undirected,Secunda Anima,1
+Primus Angelus,Undirected,Secunda Maria,1
+Primus Angelus,Undirected,Secundus Angelus,4
+Primus Angelus,Undirected,Secundus Judaeus,1
+Primus Angelus,Undirected,Secundus Miles,1
+Primus Angelus,Undirected,Septima Anima,1
+Primus Angelus,Undirected,Servus,1
+Primus Angelus,Undirected,Sexta Anima,1
+Primus Angelus,Undirected,Tertia Anima,1
+Primus Angelus,Undirected,Tertia Maria,1
+Primus Angelus,Undirected,Tertius Angelus,4
+Primus Angelus,Undirected,Tertius Judaeus,1
+Primus Angelus,Undirected,Tertius Miles,1
+Primus Angelus,Undirected,Thomas,1
+Primus Judaeus,Undirected,Quartus Judaeus,1
+Primus Judaeus,Undirected,Secundus Angelus,1
+Primus Judaeus,Undirected,Secundus Judaeus,1
+Primus Judaeus,Undirected,Servus,1
+Primus Judaeus,Undirected,Tertius Angelus,1
+Primus Judaeus,Undirected,Tertius Judaeus,1
+Primus Miles,Undirected,Quartus Miles,2
+Primus Miles,Undirected,Secundus Angelus,1
+Primus Miles,Undirected,Secundus Miles,2
+Primus Miles,Undirected,Tertius Angelus,1
+Primus Miles,Undirected,Tertius Miles,2
+Pusterbalk,Undirected,Rubin,1
+Pusterbalk,Undirected,Secunda Maria,1
+Pusterbalk,Undirected,Tertia Maria,1
+Pusterbalk,Undirected,Uxor Mercatori,1
+Quarta Anima,Undirected,Quinta Anima,1
+Quarta Anima,Undirected,Sathanas,1
+Quarta Anima,Undirected,Secunda Anima,1
+Quarta Anima,Undirected,Secundus Angelus,1
+Quarta Anima,Undirected,Septima Anima,1
+Quarta Anima,Undirected,Sexta Anima,1
+Quarta Anima,Undirected,Tertia Anima,1
+Quarta Anima,Undirected,Tertius Angelus,1
+Quartus Judaeus,Undirected,Secundus Angelus,1
+Quartus Judaeus,Undirected,Secundus Judaeus,1
+Quartus Judaeus,Undirected,Servus,1
+Quartus Judaeus,Undirected,Tertius Angelus,1
+Quartus Judaeus,Undirected,Tertius Judaeus,1
+Quartus Miles,Undirected,Secundus Angelus,1
+Quartus Miles,Undirected,Secundus Miles,2
+Quartus Miles,Undirected,Tertius Angelus,1
+Quartus Miles,Undirected,Tertius Miles,2
+Quinta Anima,Undirected,Sathanas,1
+Quinta Anima,Undirected,Secunda Anima,1
+Quinta Anima,Undirected,Secundus Angelus,1
+Quinta Anima,Undirected,Septima Anima,1
+Quinta Anima,Undirected,Sexta Anima,1
+Quinta Anima,Undirected,Tertia Anima,1
+Quinta Anima,Undirected,Tertius Angelus,1
+Rubin,Undirected,Secunda Maria,1
+Rubin,Undirected,Tertia Maria,1
+Rubin,Undirected,Uxor Mercatori,1
+Sathanas,Undirected,Secunda Anima,1
+Sathanas,Undirected,Secundus Angelus,1
+Sathanas,Undirected,Septima Anima,1
+Sathanas,Undirected,Sexta Anima,1
+Sathanas,Undirected,Tertia Anima,1
+Sathanas,Undirected,Tertius Angelus,1
+Secunda Anima,Undirected,Secundus Angelus,1
+Secunda Anima,Undirected,Septima Anima,1
+Secunda Anima,Undirected,Sexta Anima,1
+Secunda Anima,Undirected,Tertia Anima,1
+Secunda Anima,Undirected,Tertius Angelus,1
+Secunda Maria,Undirected,Secundus Angelus,1
+Secunda Maria,Undirected,Tertia Maria,3
+Secunda Maria,Undirected,Tertius Angelus,1
+Secunda Maria,Undirected,Thomas,1
+Secunda Maria,Undirected,Uxor Mercatori,1
+Secundus Angelus,Undirected,Secundus Judaeus,1
+Secundus Angelus,Undirected,Secundus Miles,1
+Secundus Angelus,Undirected,Septima Anima,1
+Secundus Angelus,Undirected,Servus,1
+Secundus Angelus,Undirected,Sexta Anima,1
+Secundus Angelus,Undirected,Tertia Anima,1
+Secundus Angelus,Undirected,Tertia Maria,1
+Secundus Angelus,Undirected,Tertius Angelus,4
+Secundus Angelus,Undirected,Tertius Judaeus,1
+Secundus Angelus,Undirected,Tertius Miles,1
+Secundus Angelus,Undirected,Thomas,1
+Secundus Judaeus,Undirected,Servus,1
+Secundus Judaeus,Undirected,Tertius Angelus,1
+Secundus Judaeus,Undirected,Tertius Judaeus,1
+Secundus Miles,Undirected,Tertius Angelus,1
+Secundus Miles,Undirected,Tertius Miles,2
+Septima Anima,Undirected,Sexta Anima,1
+Septima Anima,Undirected,Tertia Anima,1
+Septima Anima,Undirected,Tertius Angelus,1
+Servus,Undirected,Tertius Angelus,1
+Servus,Undirected,Tertius Judaeus,1
+Sexta Anima,Undirected,Tertia Anima,1
+Sexta Anima,Undirected,Tertius Angelus,1
+Tertia Anima,Undirected,Tertius Angelus,1
+Tertia Maria,Undirected,Tertius Angelus,1
+Tertia Maria,Undirected,Thomas,1
+Tertia Maria,Undirected,Uxor Mercatori,1
+Tertius Angelus,Undirected,Tertius Judaeus,1
+Tertius Angelus,Undirected,Tertius Miles,1
+Tertius Angelus,Undirected,Thomas,1

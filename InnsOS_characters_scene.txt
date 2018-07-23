@@ -1,0 +1,82 @@
+Innsbrucker (Neustifter) Easterplay. Neustift 1391.
+Speakers per scene, in order of appearance
+Extracted from this version:
+https://weblearn.ox.ac.uk/access/content/group/902d242f-6b84-4dff-b943-e349cbb096a8/medieval/osterspiele/Innsbrucker-Osterspiel.pdf - with scene structure according to Johan Nowé "Wir wellen haben ein spil: Zur Geschichte des Dramas im deutschen Mittelalter", 1997, p. 36.
+By Annika Rockenberger, July 2018
+Formalisation starts with first hashtag:
+
+# act1 Prologue
+Pilatus
+Primus Miles
+Secundus Miles
+Tertius Miles
+Quartus Miles
+Expositor
+# act2 Ordering of the Guards
+Pilatus
+Servus
+Primus Judaeus
+Secundus Judaeus
+Tertius Judaeus
+Quartus Judaeus
+Nuntius
+Primus Angelus
+Secundus Angelus
+Tertius Angelus
+# act3 Ressurrection
+Primus Angelus
+Secundus Angelus
+Tertius Angelus
+Ihesus
+Pilatus
+Nuntius
+Tertius Miles
+Quartus Miles
+Secundus Miles
+Primus Miles
+# act4 Decent into Hell
+Ihesus
+Primus Angelus
+Secundus Angelus
+Tertius Angelus
+Adam
+Lucifer
+Daemones
+Eva
+Anima Infelix
+Diabolus
+Sathanas
+Prima Anima
+Secunda Anima
+Tertia Anima
+Quarta Anima
+Quinta Anima
+Sexta Anima
+Septima Anima
+# act5 Plaint of the Marys
+Prima Maria
+Secunda Maria
+Tertia Maria
+# act6 Peddler's Play
+Mercator
+Uxor Mercatori
+Ancilla
+Rubin
+Pusterbalk
+Lasterbalk
+Prima Maria
+Secunda Maria
+Tertia Maria
+#  act7 The Grave and Apostles' Run
+Prima Maria
+Secunda Maria
+Tertia Maria
+Primus Angelus
+Secundus Angelus
+Tertius Angelus
+Ihesus
+Thomas
+Petrus
+Iohannes
+# act8 Epilogue
+Iohannes

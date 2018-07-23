@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="395.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-294.000000 -155.333572 395.000000 315.333557" height="315.33356"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 43.915115,-38.693970 -11.587752,-64.722183 -21.412638,-91.899208"
+              class="id_Adam id_Anima_Infelix" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 52.626740,-56.765759 37.298988,-96.834198 45.545891,-115.299599"
+              class="id_Adam id_Daemones" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 62.996227,-43.118916 42.752445,-47.162888 37.352505,-55.258804"
+              class="id_Adam id_Diabolus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 61.824978,-53.289021 55.079479,-74.345016 59.849644,-83.612175"
+              class="id_Adam id_Eva" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 50.305161,-20.829302 -22.409655,-10.475443 -50.099209,-31.262424"
+              class="id_Adam id_Ihesus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 45.671036,-49.305218 8.718927,-88.616432 9.505291,-114.037537"
+              class="id_Adam id_Lucifer" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 53.251801,-39.311424 12.680144,-52.260780 3.472712,-70.101120"
+              class="id_Adam id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 62.803589,-25.307598 15.553877,-2.923532 -7.657384,-11.212082"
+              class="id_Adam id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 36.697098,-44.608082 -20.761623,-90.334473 -24.672398,-124.729515"
+              class="id_Adam id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 69.933037,-58.515560 83.189423,-75.249283 93.186127,-76.408386"
+              class="id_Adam id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 52.607994,-66.203911 51.409378,-120.457718 69.094437,-138.941864"
+              class="id_Adam id_Sathanas" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 61.630962,-63.392082 69.749039,-99.893692 84.622261,-109.354866"
+              class="id_Adam id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 73.449356,-24.145885 40.425724,15.949394 16.052752,18.306610"
+              class="id_Adam id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 54.411720,-48.009129 28.626497,-72.265167 28.116770,-88.945595"
+              class="id_Adam id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 37.694382,-54.540432 -3.369894,-113.669426 2.651680,-147.067184"
+              class="id_Adam id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 44.090797,-61.285923 22.739380,-120.938538 35.506447,-147.939880"
+              class="id_Adam id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.092140,-48.518856 C 64.296875,-14.333570 2.826052,26.751461 -31.359234,19.956198"
+              class="id_Adam id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -250.985413,58.224697 -257.507111,43.676338 -254.831543,36.652988"
+              class="id_Ancilla id_Lasterbalk" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -258.759460,63.216770 -284.430359,44.495457 -286.746857,29.698059"
+              class="id_Ancilla id_Mercator" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -235.820435,38.966167 -190.706848,18.277489 -168.772766,26.419125"
+              class="id_Ancilla id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -252.387787,67.525902 -274.964813,64.825806 -281.590454,56.400093"
+              class="id_Ancilla id_Pusterbalk" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -257.868683,54.946423 -269.797882,25.155735 -263.844055,11.249108"
+              class="id_Ancilla id_Rubin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -234.806366,47.533489 -201.022675,41.216892 -187.655914,50.372589"
+              class="id_Ancilla id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -244.002716,41.508171 -214.975555,12.359076 -195.583466,12.318433"
+              class="id_Ancilla id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -243.962067,60.900253 C -244.699310,68.699936 -257.504700,79.293610 -265.304382,78.556366"
+              class="id_Ancilla id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -12.701011,-109.970993 27.474108,-124.011230 45.545891,-115.299599"
+              class="id_Anima_Infelix id_Daemones" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -2.331528,-96.324158 32.927559,-74.339912 37.352505,-55.258804"
+              class="id_Anima_Infelix id_Diabolus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -3.502774,-106.494255 45.254593,-101.522041 59.849644,-83.612175"
+              class="id_Anima_Infelix id_Eva" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -15.022595,-74.034538 -32.234535,-37.652466 -50.099209,-31.262424"
+              class="id_Anima_Infelix id_Ihesus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -19.656717,-102.510460 -1.105960,-115.793457 9.505291,-114.037537"
+              class="id_Anima_Infelix id_Lucifer" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -12.075951,-92.516663 2.855260,-79.437805 3.472712,-70.101120"
+              class="id_Anima_Infelix id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -2.524162,-78.512833 5.728990,-30.100557 -7.657384,-11.212082"
+              class="id_Anima_Infelix id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -28.630651,-97.813316 -30.586506,-117.511497 -24.672398,-124.729515"
+              class="id_Anima_Infelix id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C 4.605281,-111.720795 73.364540,-102.426308 93.186127,-76.408386"
+              class="id_Anima_Infelix id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -12.719753,-119.409157 41.584488,-147.634735 69.094437,-138.941864"
+              class="id_Anima_Infelix id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -3.696790,-116.597321 59.924152,-127.070709 84.622261,-109.354866"
+              class="id_Anima_Infelix id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C 8.121605,-77.351128 30.600838,-11.227633 16.052752,18.306610"
+              class="id_Anima_Infelix id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -10.916033,-101.214371 18.801611,-99.442200 28.116770,-88.945595"
+              class="id_Anima_Infelix id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -27.633369,-107.745667 -13.194779,-140.846451 2.651680,-147.067184"
+              class="id_Anima_Infelix id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -21.236956,-114.491165 12.914496,-148.115570 35.506447,-147.939880"
+              class="id_Anima_Infelix id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.412638,-91.899208 C -1.030874,-67.538803 -6.998833,-0.425565 -31.359234,19.956198"
+              class="id_Anima_Infelix id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 55.915375,-101.652763 50.999340,-65.628288 37.352505,-55.258804"
+              class="id_Daemones id_Diabolus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 54.744129,-111.822861 63.326378,-92.810410 59.849644,-83.612175"
+              class="id_Daemones id_Eva" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 43.224304,-79.363144 -14.162756,-28.940840 -50.099209,-31.262424"
+              class="id_Daemones id_Ihesus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 38.590179,-107.839066 16.965824,-107.081825 9.505291,-114.037537"
+              class="id_Daemones id_Lucifer" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 46.170952,-97.845268 20.927044,-70.726181 3.472712,-70.101120"
+              class="id_Daemones id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 55.722740,-83.841438 23.800776,-21.388931 -7.657384,-11.212082"
+              class="id_Daemones id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 29.616249,-103.141930 -12.514723,-108.799873 -24.672398,-124.729515"
+              class="id_Daemones id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 62.852180,-117.049400 91.436325,-93.714676 93.186127,-76.408386"
+              class="id_Daemones id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 45.527145,-124.737762 59.656273,-138.923126 69.094437,-138.941864"
+              class="id_Daemones id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 54.550110,-121.925926 77.995934,-118.359093 84.622261,-109.354866"
+              class="id_Daemones id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 66.368500,-82.679726 48.672623,-2.516003 16.052752,18.306610"
+              class="id_Daemones id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 47.330868,-106.542976 36.873394,-90.730568 28.116770,-88.945595"
+              class="id_Daemones id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 30.613531,-113.074272 4.877006,-132.134827 2.651680,-147.067184"
+              class="id_Daemones id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 37.009945,-119.819763 30.986279,-139.403931 35.506447,-147.939880"
+              class="id_Daemones id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.545891,-115.299599 C 57.216026,-72.867416 11.072949,8.286063 -31.359234,19.956198"
+              class="id_Daemones id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 36.181259,-65.428909 49.679543,-82.440926 59.849644,-83.612175"
+              class="id_Diabolus id_Eva" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 24.661438,-32.969185 -27.809587,-18.571356 -50.099209,-31.262424"
+              class="id_Diabolus id_Ihesus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 20.027317,-61.445107 3.318988,-96.712349 9.505291,-114.037537"
+              class="id_Diabolus id_Lucifer" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 27.608082,-51.451309 7.280208,-60.356701 3.472712,-70.101120"
+              class="id_Diabolus id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 37.159870,-37.447479 10.153938,-11.019449 -7.657384,-11.212082"
+              class="id_Diabolus id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 11.053381,-56.747963 -26.161558,-98.430389 -24.672398,-124.729515"
+              class="id_Diabolus id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 44.289314,-70.655441 77.789482,-83.345192 93.186127,-76.408386"
+              class="id_Diabolus id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 26.964277,-78.343803 46.009438,-128.553635 69.094437,-138.941864"
+              class="id_Diabolus id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 35.987244,-75.531967 64.349098,-107.989601 84.622261,-109.354866"
+              class="id_Diabolus id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 47.805634,-36.285774 35.025787,7.853477 16.052752,18.306610"
+              class="id_Diabolus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 28.767998,-60.149017 23.226559,-80.361092 28.116770,-88.945595"
+              class="id_Diabolus id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 12.050665,-66.680321 -8.769831,-121.765343 2.651680,-147.067184"
+              class="id_Diabolus id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 18.447077,-73.425812 17.339445,-129.034454 35.506447,-147.939880"
+              class="id_Diabolus id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.352505,-55.258804 C 38.653156,-26.473457 -2.573886,18.655544 -31.359234,19.956198"
+              class="id_Diabolus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 48.329826,-51.152458 -17.639490,-19.742607 -50.099209,-31.262424"
+              class="id_Eva id_Ihesus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 43.695702,-79.628380 13.489089,-97.883591 9.505291,-114.037537"
+              class="id_Eva id_Lucifer" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 51.276466,-69.634583 17.450308,-61.527943 3.472712,-70.101120"
+              class="id_Eva id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 60.828255,-55.630753 20.324039,-12.190695 -7.657384,-11.212082"
+              class="id_Eva id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 34.721767,-74.931229 -15.991456,-99.601639 -24.672398,-124.729515"
+              class="id_Eva id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 67.957695,-88.838715 87.959587,-84.516441 93.186127,-76.408386"
+              class="id_Eva id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 50.632664,-96.527077 56.179539,-129.724884 69.094437,-138.941864"
+              class="id_Eva id_Sathanas" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 59.655632,-93.715233 74.519203,-109.160851 84.622261,-109.354866"
+              class="id_Eva id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 71.474022,-54.469040 45.195889,6.682230 16.052752,18.306610"
+              class="id_Eva id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 52.436386,-78.332283 33.396660,-81.532341 28.116770,-88.945595"
+              class="id_Eva id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 35.719048,-84.863586 1.400270,-122.936600 2.651680,-147.067184"
+              class="id_Eva id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 42.115463,-91.609077 27.509546,-130.205704 35.506447,-147.939880"
+              class="id_Eva id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.849644,-83.612175 C 62.321541,-44.656723 7.596216,17.484299 -31.359234,19.956198"
+              class="id_Eva id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.205139,152.807861 C -44.780514,133.130447 -17.627453,101.251266 2.049964,99.675888"
+              class="id_Expositor id_Pilatus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.205139,152.807861 C -53.941872,145.554794 -59.167374,118.570107 -51.914310,107.833374"
+              class="id_Expositor id_Primus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.205139,152.807861 C -53.462898,135.989990 -43.622719,95.376541 -26.804840,85.118782"
+              class="id_Expositor id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.205139,152.807861 C -47.156956,141.991516 -36.860165,119.839264 -26.043818,115.887444"
+              class="id_Expositor id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.205139,152.807861 C -59.622185,140.323395 -65.521072,96.971146 -53.036613,80.554100"
+              class="id_Expositor id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -49.526421,-2.679251 -91.542007,41.054680 -120.125183,41.627460"
+              class="id_Ihesus id_Iohannes" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -54.733330,-59.738350 -18.970633,-109.403412 9.505291,-114.037537"
+              class="id_Ihesus id_Lucifer" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -15.385223,-24.181389 26.064198,38.511143 18.983160,73.225128"
+              class="id_Ihesus id_Nuntius" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -61.008484,-10.576097 -108.401894,4.089478 -129.088226,-6.819798"
+              class="id_Ihesus id_Petrus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -13.481710,-15.504597 17.807793,63.058395 2.049964,99.675888"
+              class="id_Ihesus id_Pilatus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -47.152561,-49.744549 -15.009413,-73.047768 3.472712,-70.101120"
+              class="id_Ihesus id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -62.297615,4.008598 -133.501740,38.617527 -168.772766,26.419125"
+              class="id_Ihesus id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -50.099209,-31.262424 C -37.600777,-35.740723 -12.135681,-23.710516 -7.657384,-11.212082"
+              class="id_Ihesus id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -22.643072,-3.080245 -23.732130,80.377235 -51.914310,107.833374"
+              class="id_Ihesus id_Primus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -63.707268,-55.041203 -48.451180,-111.121460 -24.672398,-124.729515"
+              class="id_Ihesus id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -22.164093,-12.645057 -8.187473,57.183666 -26.804840,85.118782"
+              class="id_Ihesus id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -30.471333,-68.948685 55.499866,-96.036263 93.186127,-76.408386"
+              class="id_Ihesus id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -47.796364,-76.637047 23.719818,-141.244705 69.094437,-138.941864"
+              class="id_Ihesus id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -38.773403,-73.825211 42.059479,-120.680679 84.622261,-109.354866"
+              class="id_Ihesus id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -61.283546,12.575916 -143.817581,61.556923 -187.655914,50.372589"
+              class="id_Ihesus id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -50.099209,-31.262424 C -26.955009,-34.579010 12.736166,-4.837589 16.052752,18.306610"
+              class="id_Ihesus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -15.858158,-6.643529 -1.424923,81.646393 -26.043818,115.887444"
+              class="id_Ihesus id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -45.992649,-58.442257 0.936937,-93.052155 28.116770,-88.945595"
+              class="id_Ihesus id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -62.709984,-64.973557 -31.059452,-134.456406 2.651680,-147.067184"
+              class="id_Ihesus id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -56.313568,-71.719048 -4.950176,-141.725525 35.506447,-147.939880"
+              class="id_Ihesus id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -70.479889,6.550598 -157.770447,32.699112 -195.583466,12.318433"
+              class="id_Ihesus id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -50.099209,-31.262424 C -36.107491,-24.766695 -24.863503,5.964478 -31.359234,19.956198"
+              class="id_Ihesus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -28.323385,-8.311638 -30.085825,58.778278 -53.036613,80.554100"
+              class="id_Ihesus id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.099209,-31.262424 C -52.940174,-9.978458 -89.127579,17.686039 -110.411537,14.845074"
+              class="id_Ihesus id_Thomas" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -131.607239,33.730618 -136.985062,4.662262 -129.088226,-6.819798"
+              class="id_Iohannes id_Petrus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -132.896378,48.315308 -162.084915,39.190308 -168.772766,26.419125"
+              class="id_Iohannes id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -108.199532,8.565992 -40.718853,-23.137732 -7.657384,-11.212082"
+              class="id_Iohannes id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -131.882309,56.882633 -172.400742,62.129707 -187.655914,50.372589"
+              class="id_Iohannes id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -97.553764,9.727703 -15.847007,-4.264809 16.052752,18.306610"
+              class="id_Iohannes id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -141.078644,50.857311 -186.353607,33.271896 -195.583466,12.318433"
+              class="id_Iohannes id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -106.706245,19.540020 -53.446674,6.537262 -31.359234,19.956198"
+              class="id_Iohannes id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.125183,41.627460 C -123.538933,34.328255 -117.710739,18.258821 -110.411537,14.845074"
+              class="id_Iohannes id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -262.605591,41.645065 -281.754791,37.472107 -286.746857,29.698059"
+              class="id_Lasterbalk id_Mercator" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -239.666550,17.394461 -188.031296,11.254141 -168.772766,26.419125"
+              class="id_Lasterbalk id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -256.233887,45.954193 -272.289246,57.802456 -281.590454,56.400093"
+              class="id_Lasterbalk id_Pusterbalk" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -261.714813,33.374714 -267.122345,18.132385 -263.844055,11.249108"
+              class="id_Lasterbalk id_Rubin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -238.652496,25.961781 -198.347107,34.193542 -187.655914,50.372589"
+              class="id_Lasterbalk id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -247.848846,19.936462 -212.299988,5.335729 -195.583466,12.318433"
+              class="id_Lasterbalk id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.831543,36.652988 C -248.545441,47.128231 -254.829132,72.270256 -265.304382,78.556366"
+              class="id_Lasterbalk id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 17.086058,-104.043739 13.466511,-77.681892 3.472712,-70.101120"
+              class="id_Lucifer id_Prima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 26.637848,-90.039909 16.340242,-28.344639 -7.657384,-11.212082"
+              class="id_Lucifer id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 0.531358,-109.340393 -19.975256,-115.755577 -24.672398,-124.729515"
+              class="id_Lucifer id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 33.767288,-123.247871 83.975792,-100.670387 93.186127,-76.408386"
+              class="id_Lucifer id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 16.442255,-130.936234 52.195740,-145.878830 69.094437,-138.941864"
+              class="id_Lucifer id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 25.465221,-128.124405 70.535393,-125.314789 84.622261,-109.354866"
+              class="id_Lucifer id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 37.283615,-88.878204 41.212090,-9.471712 16.052752,18.306610"
+              class="id_Lucifer id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 18.245975,-112.741447 29.412863,-97.686279 28.116770,-88.945595"
+              class="id_Lucifer id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 1.528639,-119.272743 -2.583528,-139.090530 2.651680,-147.067184"
+              class="id_Lucifer id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 7.925054,-126.018242 23.525745,-146.359634 35.506447,-147.939880"
+              class="id_Lucifer id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.505291,-114.037537 C 28.131134,-79.065880 3.612419,1.330355 -31.359234,19.956198"
+              class="id_Lucifer id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -263.807831,5.447454 -193.023376,3.480093 -168.772766,26.419125"
+              class="id_Mercator id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -280.375183,34.007187 -277.281342,50.028404 -281.590454,56.400093"
+              class="id_Mercator id_Pusterbalk" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -285.856079,21.427708 -272.114410,10.358337 -263.844055,11.249108"
+              class="id_Mercator id_Rubin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -262.793762,14.014778 -203.339203,26.419495 -187.655914,50.372589"
+              class="id_Mercator id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -271.990112,7.989456 -217.292068,-2.438319 -195.583466,12.318433"
+              class="id_Mercator id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.746857,29.698059 C -272.686707,35.181225 -259.821198,64.496208 -265.304382,78.556366"
+              class="id_Mercator id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.983160,73.225128 C 20.886673,81.901924 10.726755,97.772377 2.049964,99.675888"
+              class="id_Nuntius id_Pilatus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.983160,73.225128 C -3.232391,61.665794 -19.216717,11.003469 -7.657384,-11.212082"
+              class="id_Nuntius id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 32.564354,79.238419 43.916206,108.630157 37.902912,122.211349"
+              class="id_Nuntius id_Primus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 11.725315,94.326271 -30.813168,115.091225 -51.914310,107.833374"
+              class="id_Nuntius id_Primus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 29.309175,71.043655 48.070408,83.260468 50.251877,93.586487"
+              class="id_Nuntius id_Quartus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 12.204290,84.761459 -15.268509,91.897652 -26.804840,85.118782"
+              class="id_Nuntius id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.983160,73.225128 C 7.413374,62.827507 5.655130,29.876396 16.052752,18.306610"
+              class="id_Nuntius id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 27.650431,62.672329 56.480534,59.844044 67.033333,68.511314"
+              class="id_Nuntius id_Secundus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 18.510227,90.762985 -8.505959,116.360374 -26.043818,115.887444"
+              class="id_Nuntius id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 37.767830,72.573700 66.921982,99.773552 67.573418,118.558220"
+              class="id_Nuntius id_Servus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.983160,73.225128 C -1.739104,72.639824 -31.944542,40.678463 -31.359234,19.956198"
+              class="id_Nuntius id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 35.733284,64.183777 74.420502,75.746941 83.461853,92.497063"
+              class="id_Nuntius id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.983160,73.225128 C 6.044999,89.094879 -37.166866,93.492256 -53.036613,80.554100"
+              class="id_Nuntius id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -130.377350,7.764894 -154.188080,27.708248 -168.772766,26.419125"
+              class="id_Petrus id_Prima_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -105.680511,-31.984425 -32.822010,-34.619793 -7.657384,-11.212082"
+              class="id_Petrus id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -129.363281,16.332218 -164.503906,50.647652 -187.655914,50.372589"
+              class="id_Petrus id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -95.034744,-30.822714 -7.950163,-15.746868 16.052752,18.306610"
+              class="id_Petrus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -138.559616,10.306896 -178.456772,21.789835 -195.583466,12.318433"
+              class="id_Petrus id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -104.187225,-21.010395 -45.549828,-4.944799 -31.359234,19.956198"
+              class="id_Petrus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.088226,-6.819798 C -121.019913,-6.222162 -109.813896,6.776761 -110.411537,14.845074"
+              class="id_Petrus id_Thomas" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -22.069099,79.439758 -27.893509,12.906982 -7.657384,-11.212082"
+              class="id_Pilatus id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.049964,99.675888 C 13.727646,97.012390 35.239414,110.533661 37.902912,122.211349"
+              class="id_Pilatus id_Primus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -7.111394,112.100243 -39.489960,116.994728 -51.914310,107.833374"
+              class="id_Pilatus id_Primus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.049964,99.675888 C 10.472466,88.817627 39.393616,85.163986 50.251877,93.586487"
+              class="id_Pilatus id_Quartus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -6.632418,102.535423 -23.945299,93.801163 -26.804840,85.118782"
+              class="id_Pilatus id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -11.423333,80.601471 -3.021661,31.779909 16.052752,18.306610"
+              class="id_Pilatus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.049964,99.675888 C 8.813723,80.446297 47.803745,61.747559 67.033333,68.511314"
+              class="id_Pilatus id_Secundus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -0.326481,108.536957 -17.182749,118.263893 -26.043818,115.887444"
+              class="id_Pilatus id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.049964,99.675888 C 18.931122,90.347664 58.245193,101.677063 67.573418,118.558220"
+              class="id_Pilatus id_Servus" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -20.575813,90.413788 -40.621334,42.581974 -31.359234,19.956198"
+              class="id_Pilatus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.049964,99.675888 C 16.896578,81.957741 65.743706,77.650452 83.461853,92.497063"
+              class="id_Pilatus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 2.049964,99.675888 C -12.791710,106.868851 -45.843655,95.395775 -53.036613,80.554100"
+              class="id_Pilatus id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 13.024501,-56.097290 6.346443,-20.763872 -7.657384,-11.212082"
+              class="id_Prima_Anima id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C -13.081989,-75.397781 -29.969055,-108.174812 -24.672398,-124.729515"
+              class="id_Prima_Anima id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 20.153942,-89.305252 73.981987,-93.089615 93.186127,-76.408386"
+              class="id_Prima_Anima id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 2.828910,-96.993614 42.201939,-138.298065 69.094437,-138.941864"
+              class="id_Prima_Anima id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 11.851872,-94.181778 60.541599,-117.734032 84.622261,-109.354866"
+              class="id_Prima_Anima id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 23.670267,-54.935577 31.218290,-1.890945 16.052752,18.306610"
+              class="id_Prima_Anima id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 4.632628,-78.798828 19.419064,-90.105507 28.116770,-88.945595"
+              class="id_Prima_Anima id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C -12.084707,-85.330124 -12.577326,-131.509766 2.651680,-147.067184"
+              class="id_Prima_Anima id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C -5.688293,-92.075615 13.531949,-138.778885 35.506447,-147.939880"
+              class="id_Prima_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.472712,-70.101120 C 14.517786,-45.123268 -6.381382,8.911123 -31.359234,19.956198"
+              class="id_Prima_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -144.075928,-13.330193 -47.406700,-35.908916 -7.657384,-11.212082"
+              class="id_Prima_Maria id_Primus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -185.340103,54.978855 -253.030716,72.967438 -281.590454,56.400093"
+              class="id_Prima_Maria id_Pusterbalk" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -190.821014,42.399380 -247.863800,33.297371 -263.844055,11.249108"
+              class="id_Prima_Maria id_Rubin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -168.772766,26.419125 C -167.758698,34.986446 -179.088593,49.358524 -187.655914,50.372589"
+              class="id_Prima_Maria id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -133.430161,-12.168482 -22.534855,-17.035990 16.052752,18.306610"
+              class="id_Prima_Maria id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -168.772766,26.419125 C -176.955048,28.961124 -193.041473,20.500710 -195.583466,12.318433"
+              class="id_Prima_Maria id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -142.582642,-2.356167 -60.134529,-6.233923 -31.359234,19.956198"
+              class="id_Prima_Maria id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -159.415329,12.432069 -124.398598,5.487638 -110.411537,14.845074"
+              class="id_Prima_Maria id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.772766,26.419125 C -177.651642,56.152893 -235.570618,87.435242 -265.304382,78.556366"
+              class="id_Prima_Maria id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 28.139359,6.360544 55.475540,86.414604 37.902912,122.211349"
+              class="id_Primus_Angelus id_Primus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 7.300322,21.448395 -19.253832,92.875671 -51.914310,107.833374"
+              class="id_Primus_Angelus id_Primus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -33.763870,-30.512564 -43.972881,-98.623032 -24.672398,-124.729515"
+              class="id_Primus_Angelus id_Quarta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 24.884180,-1.834221 59.629738,61.044918 50.251877,93.586487"
+              class="id_Primus_Angelus id_Quartus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 7.779297,11.883581 -3.709177,69.682098 -26.804840,85.118782"
+              class="id_Primus_Angelus id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -0.527942,-44.420044 59.978165,-83.537827 93.186127,-76.408386"
+              class="id_Primus_Angelus id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -17.852978,-52.108406 28.198114,-128.746277 69.094437,-138.941864"
+              class="id_Primus_Angelus id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -8.830011,-49.296570 46.537773,-108.182243 84.622261,-109.354866"
+              class="id_Primus_Angelus id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -31.340157,37.104557 -139.339264,74.055359 -187.655914,50.372589"
+              class="id_Primus_Angelus id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -7.657384,-11.212082 C 2.988381,-10.050371 17.214462,7.660845 16.052752,18.306610"
+              class="id_Primus_Angelus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 23.225441,-10.205546 68.039871,37.628490 67.033333,68.511314"
+              class="id_Primus_Angelus id_Secundus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 14.085236,17.885111 3.053375,94.144821 -26.043818,115.887444"
+              class="id_Primus_Angelus id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -16.049257,-33.913616 5.415236,-80.553726 28.116770,-88.945595"
+              class="id_Primus_Angelus id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 33.342834,-0.304183 78.481316,77.557999 67.573418,118.558220"
+              class="id_Primus_Angelus id_Servus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -32.766594,-40.444916 -26.581154,-121.957977 2.651680,-147.067184"
+              class="id_Primus_Angelus id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -26.370178,-47.190407 -0.471880,-129.227081 35.506447,-147.939880"
+              class="id_Primus_Angelus id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -40.536499,31.079243 -153.292145,45.197548 -195.583466,12.318433"
+              class="id_Primus_Angelus id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -7.657384,-11.212082 C -6.164099,-0.238056 -20.385208,18.462912 -31.359234,19.956198"
+              class="id_Primus_Angelus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 31.308294,-8.694099 85.979836,53.531387 83.461853,92.497063"
+              class="id_Primus_Angelus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C 1.620007,16.217003 -25.607529,71.276711 -53.036613,80.554100"
+              class="id_Primus_Angelus id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.657384,-11.212082 C -22.996784,14.550180 -84.649269,30.184473 -110.411537,14.845074"
+              class="id_Primus_Angelus id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 34.647732,114.016579 42.057114,96.841667 50.251877,93.586487"
+              class="id_Primus_Judaeus id_Quartus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 12.751930,105.800438 -0.358166,43.457592 16.052752,18.306610"
+              class="id_Primus_Judaeus id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 32.988991,105.645264 50.467239,73.425232 67.033333,68.511314"
+              class="id_Primus_Judaeus id_Secundus_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 43.106388,115.546616 60.908691,113.354752 67.573418,118.558220"
+              class="id_Primus_Judaeus id_Servus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 3.599453,115.612747 -37.957836,54.259655 -31.359234,19.956198"
+              class="id_Primus_Judaeus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.902912,122.211349 C 41.071846,107.156708 68.407211,89.328133 83.461853,92.497063"
+              class="id_Primus_Judaeus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -51.914310,107.833374 C -51.435337,98.268562 -36.369652,84.639801 -26.804840,85.118782"
+              class="id_Primus_Miles id_Quartus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.914310,107.833374 C -56.226250,76.334610 -15.446015,22.618549 16.052752,18.306610"
+              class="id_Primus_Miles id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -51.914310,107.833374 C -45.129398,104.270096 -29.607103,109.102531 -26.043818,115.887444"
+              class="id_Primus_Miles id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.914310,107.833374 C -65.378731,86.146919 -53.045685,33.420616 -31.359234,19.956198"
+              class="id_Primus_Miles id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -51.914310,107.833374 C -57.594627,102.601974 -58.268009,86.234413 -53.036613,80.554100"
+              class="id_Primus_Miles id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -281.590454,56.400093 C -287.071350,43.820618 -276.423523,16.730024 -263.844055,11.249108"
+              class="id_Pusterbalk id_Rubin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -281.590454,56.400093 C -264.009064,36.407684 -207.648331,32.791183 -187.655914,50.372589"
+              class="id_Pusterbalk id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -281.590454,56.400093 C -273.205414,30.382360 -221.601196,3.933367 -195.583466,12.318433"
+              class="id_Pusterbalk id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -281.590454,56.400093 C -273.902008,57.574135 -264.130341,70.867897 -265.304382,78.556366"
+              class="id_Pusterbalk id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C 8.563531,-138.636993 79.278648,-109.644310 93.186127,-76.408386"
+              class="id_Quarta_Anima id_Quinta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C -8.761501,-146.325348 47.498604,-154.852768 69.094437,-138.941864"
+              class="id_Quarta_Anima id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C 0.261465,-143.513519 65.838257,-134.288727 84.622261,-109.354866"
+              class="id_Quarta_Anima id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C 12.079861,-104.267311 36.514950,-18.445648 16.052752,18.306610"
+              class="id_Quarta_Anima id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C -6.957780,-128.130569 24.715721,-106.660210 28.116770,-88.945595"
+              class="id_Quarta_Anima id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C -23.675117,-134.661865 -7.280669,-148.064468 2.651680,-147.067184"
+              class="id_Quarta_Anima id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C -17.278702,-141.407349 18.828604,-155.333572 35.506447,-147.939880"
+              class="id_Quarta_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.672398,-124.729515 C 2.927378,-94.455009 -1.084723,-7.643579 -31.359234,19.956198"
+              class="id_Quarta_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.251877,93.586487 C 28.356077,85.370338 7.836603,40.202412 16.052752,18.306610"
+              class="id_Quartus_Judaeus id_Secundus_Angelus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.251877,93.586487 C 48.593136,85.215157 58.662006,70.170059 67.033333,68.511314"
+              class="id_Quartus_Judaeus id_Secundus_Judaeus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.251877,93.586487 C 58.710533,95.116524 69.103455,110.099564 67.573418,118.558220"
+              class="id_Quartus_Judaeus id_Servus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.251877,93.586487 C 19.203594,95.182648 -29.763069,51.004478 -31.359234,19.956198"
+              class="id_Quartus_Judaeus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.251877,93.586487 C 56.675987,86.726601 76.601967,86.072952 83.461853,92.497063"
+              class="id_Quartus_Judaeus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.804840,85.118782 C -31.595757,63.184830 -5.881201,23.097527 16.052752,18.306610"
+              class="id_Quartus_Miles id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.804840,85.118782 C -20.498903,91.120308 -20.042290,109.581505 -26.043818,115.887444"
+              class="id_Quartus_Miles id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.804840,85.118782 C -40.748238,72.997147 -43.480873,33.899593 -31.359234,19.956198"
+              class="id_Quartus_Miles id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.804840,85.118782 C -32.964130,89.452202 -48.703197,86.713387 -53.036613,80.554100"
+              class="id_Quartus_Miles id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 75.861092,-84.096748 61.406078,-121.616829 69.094437,-138.941864"
+              class="id_Quinta_Anima id_Sathanas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 84.884056,-81.284904 79.745743,-101.052795 84.622261,-109.354866"
+              class="id_Quinta_Anima id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 96.702454,-42.038712 50.422428,14.790285 16.052752,18.306610"
+              class="id_Quinta_Anima id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 77.664818,-65.901955 38.623199,-73.424286 28.116770,-88.945595"
+              class="id_Quinta_Anima id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 60.947479,-72.433258 6.626810,-114.828537 2.651680,-147.067184"
+              class="id_Quinta_Anima id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 67.343895,-79.178749 32.736084,-122.097641 35.506447,-147.939880"
+              class="id_Quinta_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.186127,-76.408386 C 87.549973,-32.226395 12.822756,25.592354 -31.359234,19.956198"
+              class="id_Quinta_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.844055,11.249108 C -240.781738,3.836177 -195.068848,27.310265 -187.655914,50.372589"
+              class="id_Rubin id_Secunda_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.844055,11.249108 C -249.978073,-2.189144 -209.021713,-1.547550 -195.583466,12.318433"
+              class="id_Rubin id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.844055,11.249108 C -250.674652,25.002625 -251.550873,65.386986 -265.304382,78.556366"
+              class="id_Rubin id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 78.117401,-136.130020 87.434090,-118.377831 84.622261,-109.354866"
+              class="id_Sathanas id_Secunda_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 89.935791,-96.883835 58.110786,-2.534748 16.052752,18.306610"
+              class="id_Sathanas id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 70.898155,-120.747078 46.311554,-90.749313 28.116770,-88.945595"
+              class="id_Sathanas id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 54.180820,-127.278374 14.315168,-132.153564 2.651680,-147.067184"
+              class="id_Sathanas id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 60.577236,-134.023865 40.424442,-139.422668 35.506447,-147.939880"
+              class="id_Sathanas id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.094437,-138.941864 C 80.783310,-87.071518 20.511110,8.267323 -31.359234,19.956198"
+              class="id_Sathanas id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.622261,-109.354866 C 96.440651,-70.108665 55.298950,6.488217 16.052752,18.306610"
+              class="id_Secunda_Anima id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.622261,-109.354866 C 77.403015,-93.971909 43.499725,-81.726349 28.116770,-88.945595"
+              class="id_Secunda_Anima id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.622261,-109.354866 C 60.685684,-100.503220 11.503332,-123.130600 2.651680,-147.067184"
+              class="id_Secunda_Anima id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.622261,-109.354866 C 67.082092,-107.248703 37.612606,-130.399704 35.506447,-147.939880"
+              class="id_Secunda_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.622261,-109.354866 C 87.288177,-60.296356 17.699278,17.290283 -31.359234,19.956198"
+              class="id_Secunda_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.655914,50.372589 C -153.327377,3.217659 -31.102179,-16.021927 16.052752,18.306610"
+              class="id_Secunda_Maria id_Secundus_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -187.655914,50.372589 C -196.852249,44.347267 -201.608780,21.514774 -195.583466,12.318433"
+              class="id_Secunda_Maria id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.655914,50.372589 C -162.479858,13.029976 -68.701843,-5.219858 -31.359234,19.956198"
+              class="id_Secunda_Maria id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.655914,50.372589 C -179.312531,27.818211 -132.965912,6.501701 -110.411537,14.845074"
+              class="id_Secunda_Maria id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.655914,50.372589 C -197.548859,71.539040 -244.137939,88.449303 -265.304382,78.556366"
+              class="id_Secunda_Maria id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C 36.289806,18.151432 66.878159,48.274258 67.033333,68.511314"
+              class="id_Secundus_Angelus id_Secundus_Judaeus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C 27.149605,46.242092 1.891663,104.790588 -26.043818,115.887444"
+              class="id_Secundus_Angelus id_Secundus_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C -2.984886,-5.556635 4.253525,-69.907959 28.116770,-88.945595"
+              class="id_Secundus_Angelus id_Septima_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C 46.407204,28.052799 77.319603,88.203766 67.573418,118.558220"
+              class="id_Secundus_Angelus id_Servus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C -19.702223,-12.087936 -27.742867,-111.312210 2.651680,-147.067184"
+              class="id_Secundus_Angelus id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C -13.305807,-18.833427 -1.633591,-118.581322 35.506447,-147.939880"
+              class="id_Secundus_Angelus id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C -27.472128,59.436218 -154.453857,55.843311 -195.583466,12.318433"
+              class="id_Secundus_Angelus id_Tertia_Maria" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 16.052752,18.306610 C 6.900271,28.118927 -21.546917,29.108677 -31.359234,19.956198"
+              class="id_Secundus_Angelus id_Tertius_Angelus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C 44.372665,19.662880 84.818123,64.177155 83.461853,92.497063"
+              class="id_Secundus_Angelus id_Tertius_Judaeus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C 14.684377,44.573978 -26.769245,81.922470 -53.036613,80.554100"
+              class="id_Secundus_Angelus id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.052752,18.306610 C -9.932414,42.907162 -85.810989,40.830238 -110.411537,14.845074"
+              class="id_Secundus_Angelus id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.033333,68.511314 C 77.150734,78.412682 77.474785,108.440819 67.573418,118.558220"
+              class="id_Secundus_Judaeus id_Servus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.033333,68.511314 C 37.643799,78.478806 -21.391745,49.345734 -31.359234,19.956198"
+              class="id_Secundus_Judaeus id_Tertius_Angelus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.033333,68.511314 C 75.116188,70.022758 84.973297,84.414207 83.461853,92.497063"
+              class="id_Secundus_Judaeus id_Tertius_Judaeus"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.043818,115.887444 C -46.293152,97.764275 -49.482399,40.205532 -31.359234,19.956198"
+              class="id_Secundus_Miles id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.043818,115.887444 C -38.509048,114.219330 -54.704723,93.019333 -53.036613,80.554100"
+              class="id_Secundus_Miles id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.116770,-88.945595 C 11.399434,-95.476898 -3.879621,-130.349854 2.651680,-147.067184"
+              class="id_Septima_Anima id_Sexta_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.116770,-88.945595 C 17.795849,-102.222389 22.229652,-137.618958 35.506447,-147.939880"
+              class="id_Septima_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.116770,-88.945595 C 38.001930,-55.270035 2.316326,10.071039 -31.359234,19.956198"
+              class="id_Septima_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.573418,118.558220 C 28.066484,118.624344 -31.293108,59.463131 -31.359234,19.956198"
+              class="id_Servus id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 67.573418,118.558220 C 65.538872,110.168297 75.071930,94.531609 83.461853,92.497063"
+              class="id_Servus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.651680,-147.067184 C 9.048094,-153.812683 28.760954,-154.336288 35.506447,-147.939880"
+              class="id_Sexta_Anima id_Tertia_Anima" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.651680,-147.067184 C 29.254175,-106.860321 8.847628,-6.646297 -31.359234,19.956198"
+              class="id_Sexta_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 35.506447,-147.939880 C 55.712528,-100.987526 15.593117,-0.249883 -31.359234,19.956198"
+              class="id_Tertia_Anima id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.583466,12.318433 C -161.211060,-18.998863 -62.676533,-14.416204 -31.359234,19.956198"
+              class="id_Tertia_Maria id_Tertius_Angelus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.583466,12.318433 C -178.043747,-4.210625 -126.940598,-2.694640 -110.411537,14.845074"
+              class="id_Tertia_Maria id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.583466,12.318433 C -196.280060,39.510201 -238.112610,79.252960 -265.304382,78.556366"
+              class="id_Tertia_Maria id_Uxor_Mercatori" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -31.359234,19.956198 C 6.113156,11.500153 75.005806,55.024673 83.461853,92.497063"
+              class="id_Tertius_Angelus id_Tertius_Judaeus" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -31.359234,19.956198 C -23.575130,36.411255 -36.581558,72.769989 -53.036613,80.554100"
+              class="id_Tertius_Angelus id_Tertius_Miles" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -31.359234,19.956198 C -48.191921,34.744434 -95.623299,31.677761 -110.411537,14.845074"
+              class="id_Tertius_Angelus id_Thomas" stroke-opacity="1.0"
+              stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="71.09214"
+                class="id_Adam" cy="-48.518856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-21.412638"
+                class="id_Anima_Infelix" cy="-91.89921" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="45.54589"
+                class="id_Daemones" cy="-115.2996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="37.352505"
+                class="id_Diabolus" cy="-55.258804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="59.849644"
+                class="id_Eva" cy="-83.612175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-50.09921"
+                class="id_Ihesus" cy="-31.262424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="9.505291"
+                class="id_Lucifer" cy="-114.03754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="3.4727118"
+                class="id_Prima_Anima" cy="-70.10112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-7.6573844"
+                class="id_Primus_Angelus" cy="-11.212082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-24.672398"
+                class="id_Quarta_Anima" cy="-124.729515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="93.18613"
+                class="id_Quinta_Anima" cy="-76.40839" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="69.09444"
+                class="id_Sathanas" cy="-138.94186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="84.62226"
+                class="id_Secunda_Anima" cy="-109.354866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="16.052752"
+                class="id_Secundus_Angelus" cy="18.30661" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="28.11677"
+                class="id_Septima_Anima" cy="-88.945595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="2.6516798"
+                class="id_Sexta_Anima" cy="-147.06718" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="35.506447"
+                class="id_Tertia_Anima" cy="-147.93988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-31.359234"
+                class="id_Tertius_Angelus" cy="19.956198" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-243.96207"
+                class="id_Ancilla" cy="60.900253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-254.83154"
+                class="id_Lasterbalk" cy="36.65299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-286.74686"
+                class="id_Mercator" cy="29.69806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-168.77277"
+                class="id_Prima_Maria" cy="26.419125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-281.59045"
+                class="id_Pusterbalk" cy="56.400093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-263.84406"
+                class="id_Rubin" cy="11.249108" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-187.65591"
+                class="id_Secunda_Maria" cy="50.37259" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-195.58347"
+                class="id_Tertia_Maria" cy="12.318433" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-265.30438"
+                class="id_Uxor_Mercatori" cy="78.556366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-43.20514"
+                class="id_Expositor" cy="152.80786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="2.0499644"
+                class="id_Pilatus" cy="99.67589" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-51.91431"
+                class="id_Primus_Miles" cy="107.833374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-26.80484"
+                class="id_Quartus_Miles" cy="85.11878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-26.043818"
+                class="id_Secundus_Miles" cy="115.88744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-53.036613"
+                class="id_Tertius_Miles" cy="80.5541" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-120.12518"
+                class="id_Iohannes" cy="41.62746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="18.98316"
+                class="id_Nuntius" cy="73.22513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-129.08823"
+                class="id_Petrus" cy="-6.8197985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="-110.41154"
+                class="id_Thomas" cy="14.845074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="37.902912"
+                class="id_Primus_Judaeus" cy="122.21135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="50.251877"
+                class="id_Quartus_Judaeus" cy="93.58649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="67.03333"
+                class="id_Secundus_Judaeus" cy="68.511314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="67.57342"
+                class="id_Servus" cy="118.55822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="7.0" cx="83.46185"
+                class="id_Tertius_Judaeus" cy="92.49706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
