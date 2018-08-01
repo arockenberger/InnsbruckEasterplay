@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d3"/>
+<key attr.name="related" attr.type="boolean" for="edge" id="d2"/>
+<key attr.name="edible" attr.type="boolean" for="node" id="d1"/>
+<key attr.name="nutrient" attr.type="boolean" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">True</data>
+</node>
+<node id="B12">
+  <data key="d0">True</data>
+</node>
+<node id="B6">
+  <data key="d0">True</data>
+</node>
+<node id="C">
+  <data key="d0">True</data>
+</node>
+<node id="Ca">
+  <data key="d0">True</data>
+</node>
+<node id="Cu">
+  <data key="d0">True</data>
+</node>
+<node id="D">
+  <data key="d0">True</data>
+</node>
+<node id="E">
+  <data key="d0">True</data>
+</node>
+<node id="Mn">
+  <data key="d0">True</data>
+</node>
+<node id="Se">
+  <data key="d0">True</data>
+</node>
+<node id="Zn">
+  <data key="d0">True</data>
+</node>
+<node id="Carrots">
+  <data key="d0">False</data>
+</node>
+<node id="Eggs">
+  <data key="d0">False</data>
+</node>
+<node id="Fatty Fish">
+  <data key="d0">False</data>
+</node>
+<node id="Green Leafy Vegs">
+  <data key="d0">False</data>
+</node>
+<node id="Liver">
+  <data key="d0">False</data>
+</node>
+<node id="Milk">
+  <data key="d0">False</data>
+</node>
+<node id="Tomatoes">
+  <data key="d0">False</data>
+</node>
+<node id="Asparagus">
+  <data key="d0">False</data>
+</node>
+<node id="Beans">
+  <data key="d0">False</data>
+</node>
+<node id="Kidneys">
+  <data key="d0">False</data>
+</node>
+<node id="Potatoes">
+  <data key="d0">False</data>
+</node>
+<node id="Pumpkins">
+  <data key="d0">False</data>
+</node>
+<node id="Broccoli">
+  <data key="d0">False</data>
+</node>
+<node id="Cheese">
+  <data key="d0">False</data>
+</node>
+<node id="Nuts">
+  <data key="d0">False</data>
+</node>
+<node id="Whole Grains">
+  <data key="d0">False</data>
+</node>
+<node id="Mushrooms">
+  <data key="d0">False</data>
+</node>
+<node id="Seeds">
+  <data key="d0">False</data>
+</node>
+<node id="Legumes">
+  <data key="d0">False</data>
+</node>
+<node id="Wheat">
+  <data key="d0">False</data>
+</node>
+<node id="Beef">
+  <data key="d0">False</data>
+</node>
+<node id="Riboflavin">
+  <data key="d0">True</data>
+</node>
+<node id="Niacin">
+  <data key="d0">True</data>
+</node>
+<node id="Folates">
+  <data key="d0">True</data>
+</node>
+<node id="Spinach">
+  <data key="d0">False</data>
+</node>
+<node id="Poultry">
+  <data key="d0">False</data>
+</node>
+<node id="Shellfish">
+  <data key="d0">False</data>
+</node>
+<node id="Thiamin">
+  <data key="d0">True</data>
+</node>
+<node id="Veg Oils">
+  <data key="d0">False</data>
+</node>
+<node id="Yogurt">
+  <data key="d0">False</data>
+</node>
+<node id="Honey">
+  <data key="d1">True</data>
+  <data key="d0">False</data>
+</node>
+<node id="Steel">
+  <data key="d1">False</data>
+  <data key="d0">False</data>
+</node>
+<node id="Sugar">
+  <data key="d0">False</data>
+</node>
+<edge source="A" target="Carrots"/>
+<edge source="A" target="Eggs"/>
+<edge source="A" target="Fatty Fish"/>
+<edge source="A" target="Green Leafy Vegs"/>
+<edge source="A" target="Liver"/>
+<edge source="A" target="Milk"/>
+<edge source="A" target="Tomatoes"/>
+<edge source="B12" target="Eggs"/>
+<edge source="B12" target="Fatty Fish"/>
+<edge source="B12" target="Milk"/>
+<edge source="B12" target="Beef"/>
+<edge source="B12" target="Poultry"/>
+<edge source="B6" target="Fatty Fish"/>
+<edge source="B6" target="Liver"/>
+<edge source="B6" target="Asparagus"/>
+<edge source="B6" target="Beans"/>
+<edge source="B6" target="Kidneys"/>
+<edge source="B6" target="Potatoes"/>
+<edge source="B6" target="Beef"/>
+<edge source="B6" target="Poultry"/>
+<edge source="C" target="Carrots"/>
+<edge source="C" target="Green Leafy Vegs"/>
+<edge source="C" target="Tomatoes"/>
+<edge source="C" target="Pumpkins"/>
+<edge source="C" target="Broccoli"/>
+<edge source="Ca" target="Green Leafy Vegs"/>
+<edge source="Ca" target="Milk"/>
+<edge source="Ca" target="Broccoli"/>
+<edge source="Ca" target="Cheese"/>
+<edge source="Ca" target="Yogurt"/>
+<edge source="Cu" target="Liver"/>
+<edge source="Cu" target="Beans"/>
+<edge source="Cu" target="Kidneys"/>
+<edge source="Cu" target="Potatoes"/>
+<edge source="Cu" target="Nuts"/>
+<edge source="Cu" target="Whole Grains"/>
+<edge source="Cu" target="Shellfish"/>
+<edge source="D" target="Fatty Fish"/>
+<edge source="D" target="Milk"/>
+<edge source="D" target="Mushrooms"/>
+<edge source="E" target="Green Leafy Vegs"/>
+<edge source="E" target="Nuts"/>
+<edge source="E" target="Seeds"/>
+<edge source="E" target="Veg Oils"/>
+<edge source="Mn" target="Green Leafy Vegs"/>
+<edge source="Mn" target="Nuts"/>
+<edge source="Mn" target="Whole Grains"/>
+<edge source="Mn" target="Seeds"/>
+<edge source="Mn" target="Legumes"/>
+<edge source="Mn" target="Wheat"/>
+<edge source="Se" target="Liver"/>
+<edge source="Se" target="Kidneys"/>
+<edge source="Se" target="Shellfish"/>
+<edge source="Zn" target="Liver"/>
+<edge source="Zn" target="Beans"/>
+<edge source="Zn" target="Kidneys"/>
+<edge source="Zn" target="Potatoes"/>
+<edge source="Zn" target="Nuts"/>
+<edge source="Zn" target="Beef"/>
+<edge source="Zn" target="Poultry"/>
+<edge source="Zn" target="Honey">
+  <data key="d2">False</data>
+  <data key="d3">0.01</data>
+</edge>
+<edge source="Eggs" target="Riboflavin"/>
+<edge source="Fatty Fish" target="Niacin"/>
+<edge source="Green Leafy Vegs" target="Riboflavin"/>
+<edge source="Liver" target="Folates"/>
+<edge source="Milk" target="Riboflavin"/>
+<edge source="Tomatoes" target="Tomatoes"/>
+<edge source="Asparagus" target="Folates"/>
+<edge source="Nuts" target="Niacin"/>
+<edge source="Whole Grains" target="Niacin"/>
+<edge source="Whole Grains" target="Thiamin"/>
+<edge source="Seeds" target="Niacin"/>
+<edge source="Legumes" target="Riboflavin"/>
+<edge source="Beef" target="Riboflavin"/>
+<edge source="Beef" target="Niacin"/>
+<edge source="Folates" target="Spinach"/>
+<edge source="Honey" target="Steel">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="Honey" target="Sugar">
+  <data key="d3">0.99</data>
+</edge>
+</graph></graphml>
