@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="Digital Humanities"/>
+<node id="Alliance Of Digital Humanities Organizations"/>
+<node id="Alternate Reality Game"/>
+<node id="American Historical Association"/>
+<node id="American Scientist"/>
+<node id="Anthropology"/>
+<node id="Archaeology"/>
+<node id="Art"/>
+<node id="Association For Computers And The Humanities"/>
+<node id="Australasian Association For Digital Humanities"/>
+<node id="Australian National University"/>
+<node id="Beta Version"/>
+<node id="Born-Digital"/>
+<node id="Centernet"/>
+<node id="Center For Digital Research In The Humanities"/>
+<node id="Center For Digital Scholarship And Curation"/>
+<node id="Center For History And New Media"/>
+<node id="Center For Public History And Digital Humanities"/>
+<node id="Centre For Information-Modeling"/>
+<node id="Charles And Ray Eames"/>
+<node id="Chaucer"/>
+<node id="City University Of New York"/>
+<node id="Cleveland State University"/>
+<node id="Communication Studies"/>
+<node id="Computational Archaeology"/>
+<node id="Computational Lexicology"/>
+<node id="Computers And Writing"/>
+<node id="Computing"/>
+<node id="Critical Code Studies"/>
+<node id="Cultural Analytics Lab"/>
+<node id="Cultural Analytics"/>
+<node id="Cultural Studies"/>
+<node id="Cultural Trends"/>
+<node id="Culturomics"/>
+<node id="Cybertext"/>
+<node id="Cyborg Anthropology"/>
+<node id="Dhcommons"/>
+<node id="Data Mining"/>
+<node id="Data Visualisation"/>
+<node id="David G. Hays"/>
+<node id="Department Of Digital Humanities"/>
+<node id="Digital Classicist"/>
+<node id="Digital Humanities Quarterly"/>
+<node id="Digital Humanities Summer Institute"/>
+<node id="Digital Humanities Conference"/>
+<node id="Digital Literary Studies"/>
+<node id="Digital Medievalist"/>
+<node id="Digital Studies / Le Champ Numérique"/>
+<node id="Digital Anthropology"/>
+<node id="Digital Archive"/>
+<node id="Digital History"/>
+<node id="Digital Library"/>
+<node id="Digital Mapping"/>
+<node id="Digital Scholarship"/>
+<node id="Digitizing"/>
+<node id="E-Research"/>
+<node id="Erhetoric"/>
+<node id="Edmund Spenser"/>
+<node id="Electronic Literature"/>
+<node id="Electronic Publication"/>
+<node id="Emily Dickinson"/>
+<node id="Erez Lieberman Aiden"/>
+<node id="Experiments In Art And Technology"/>
+<node id="Extensible Markup Language"/>
+<node id="Game Studies"/>
+<node id="Gender Bias"/>
+<node id="George Mason University"/>
+<node id="Google"/>
+<node id="Google Books"/>
+<node id="Graduate Center, Cuny"/>
+<node id="Hastac"/>
+<node id="Html"/>
+<node id="Humlab"/>
+<node id="Hashtag Activism"/>
+<node id="Heidelberg Centre For Digital Humanities"/>
+<node id="Heidelberg University"/>
+<node id="Historical Social Research"/>
+<node id="History"/>
+<node id="Human Behavior"/>
+<node id="Humanistic Informatics"/>
+<node id="Humanistica"/>
+<node id="Humanities"/>
+<node id="Humanities Advanced Technology And Information Institute"/>
+<node id="Humanités Numériques"/>
+<node id="Hypermedia"/>
+<node id="Hypertext"/>
+<node id="Ibm"/>
+<node id="Information Retrieval"/>
+<node id="Information Science"/>
+<node id="Information Studies"/>
+<node id="Information Technology"/>
+<node id="Institute For Advanced Technology In The Humanities"/>
+<node id="Integrated Authority File"/>
+<node id="International Journal Of Humanities And Arts Computing"/>
+<node id="Japanese Association For Digital Humanities"/>
+<node id="Johanna Drucker"/>
+<node id="John Unsworth"/>
+<node id="Joint Information Systems Committee"/>
+<node id="Journal Of Digital Archives And Digital Humanities"/>
+<node id="Journal Of Digital Humanities"/>
+<node id="Journal Of Digital And Media Literacy"/>
+<node id="Journal Of Interactive Technology And Pedagogy"/>
+<node id="Journal Of The Japanese Association For Digital Humanities"/>
+<node id="Journal Of The Text Encoding Initiative"/>
+<node id="Kairos (Journal)"/>
+<node id="King'S College London"/>
+<node id="Laboratory For Digital Cultures And Humanities Of The University Of Lausanne"/>
+<node id="Law"/>
+<node id="Leipzig University"/>
+<node id="Lev Manovich"/>
+<node id="Library Of Congress Control Number"/>
+<node id="Linguistics"/>
+<node id="Literary And Linguistic Computing"/>
+<node id="Literature"/>
+<node id="Mainz"/>
+<node id="Mainzed"/>
+<node id="Maryland Institute For Technology In The Humanities"/>
+<node id="Media Studies"/>
+<node id="Media Theory Of Composition"/>
+<node id="Metadata"/>
+<node id="Modern Language Association"/>
+<node id="Multimedia"/>
+<node id="Multimedia Literacy"/>
+<node id="Music"/>
+<node id="National Endowment For The Humanities"/>
+<node id="Natural Language Processing"/>
+<node id="Neologism"/>
+<node id="New Media"/>
+<node id="New Media Studies"/>
+<node id="Omeka"/>
+<node id="Open Access"/>
+<node id="Open Source"/>
+<node id="Open Standards"/>
+<node id="Performing Arts"/>
+<node id="Philosophy"/>
+<node id="Politics"/>
+<node id="Proceedings Of The National Academy Of Sciences Of The United States Of America"/>
+<node id="Qualcomm Institute"/>
+<node id="Readability"/>
+<node id="Religious Studies"/>
+<node id="Roberto Busa"/>
+<node id="Siggraph"/>
+<node id="Scholars' Lab"/>
+<node id="Science (Journal)"/>
+<node id="Semantic Web"/>
+<node id="Shakespeare"/>
+<node id="Social Sciences And Humanities Research Council"/>
+<node id="Social Network Analysis"/>
+<node id="Social Sciences"/>
+<node id="Society For Digital Humanities"/>
+<node id="Sociology"/>
+<node id="Software Studies"/>
+<node id="Southern Spaces"/>
+<node id="Stanford Encyclopedia Of Philosophy"/>
+<node id="Stanley Fish"/>
+<node id="Statistics"/>
+<node id="Sussex Humanities Lab"/>
+<node id="Systems Theory"/>
+<node id="Thatcamp"/>
+<node id="Text Encoding Initiative"/>
+<node id="Text Mining"/>
+<node id="The European Association For Digital Humanities"/>
+<node id="The European Summer University In Digital Humanities"/>
+<node id="The New York Times"/>
+<node id="The Valley Of The Shadow"/>
+<node id="The William Blake Archive"/>
+<node id="Thomas Aquinas"/>
+<node id="Topic Modeling"/>
+<node id="Transliteracy"/>
+<node id="Ucl Centre For Digital Humanities"/>
+<node id="Umanistica Digitale"/>
+<node id="University College London"/>
+<node id="University Of California, Los Angeles"/>
+<node id="University Of Glasgow"/>
+<node id="University Of Graz"/>
+<node id="University Of Helsinki"/>
+<node id="University Of Maryland"/>
+<node id="University Of Nebraska-Lincoln"/>
+<node id="University Of Southern California"/>
+<node id="University Of Sussex"/>
+<node id="University Of Victoria"/>
+<node id="University Of Virginia"/>
+<node id="Unix"/>
+<node id="Vectors Journal Of Culture And Technology In A Dynamic Vernacular"/>
+<node id="Virtual Reality"/>
+<node id="Visual Arts"/>
+<node id="Voyant Tools"/>
+<node id="Walt Whitman"/>
+<node id="Washington State University"/>
+<node id="Women Writers Project"/>
+<node id="Wordpress"/>
+<node id="Association For Literary And Linguistic Computing"/>
+<node id="Audiovisual"/>
+<node id="Augmented Reality"/>
+<node id="Content Analysis"/>
+<node id="Electronic Publishing"/>
+<node id="Gothenburg"/>
+<node id="Humanism"/>
+<node id="Italy"/>
+<node id="Mcmaster University"/>
+<node id="Oxford University Press"/>
+<node id="Susan Hockey"/>
+<node id="Textual Scholarship"/>
+<node id="Tübingen"/>
+<node id="University Of Nebraska"/>
+<node id="University Of Toronto"/>
+<node id="Victoria, British Columbia"/>
+<node id="Willard Mccarty"/>
+<node id="Xml"/>
+<edge source="Digital Humanities" target="Alliance Of Digital Humanities Organizations"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Alternate Reality Game"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="American Historical Association"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="American Scientist"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Anthropology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Archaeology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Art"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Association For Computers And The Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Australasian Association For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Australian National University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Beta Version"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Born-Digital"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Centernet"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Center For Digital Research In The Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Center For Digital Scholarship And Curation"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Center For History And New Media"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Center For Public History And Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Centre For Information-Modeling"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Charles And Ray Eames"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Chaucer"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="City University Of New York"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cleveland State University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Communication Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Computational Archaeology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Computational Lexicology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Computers And Writing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Computing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Critical Code Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cultural Analytics Lab"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cultural Analytics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cultural Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cultural Trends"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Culturomics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cybertext"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Cyborg Anthropology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Dhcommons"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Data Mining"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Data Visualisation"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="David G. Hays"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Department Of Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Classicist"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Quarterly"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Summer Institute"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Conference"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Literary Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Medievalist"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Studies / Le Champ Numérique"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Anthropology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Archive"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital History"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Library"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Mapping"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digital Scholarship"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Digitizing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="E-Research"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Erhetoric"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Edmund Spenser"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Electronic Literature"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Electronic Publication"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Emily Dickinson"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Erez Lieberman Aiden"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Experiments In Art And Technology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Extensible Markup Language"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Game Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Gender Bias"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="George Mason University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Google"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Google Books"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Graduate Center, Cuny"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Hastac"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Html"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humlab"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Hashtag Activism"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Heidelberg Centre For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Heidelberg University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Historical Social Research"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="History"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Human Behavior"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humanistic Informatics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humanistica"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humanities Advanced Technology And Information Institute"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Humanités Numériques"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Hypermedia"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Hypertext"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Ibm"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Information Retrieval"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Information Science"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Information Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Information Technology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Institute For Advanced Technology In The Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Integrated Authority File"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="International Journal Of Humanities And Arts Computing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Japanese Association For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Johanna Drucker"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="John Unsworth"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Joint Information Systems Committee"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of Digital Archives And Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of Digital And Media Literacy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of Interactive Technology And Pedagogy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of The Japanese Association For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Journal Of The Text Encoding Initiative"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Kairos (Journal)"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="King'S College London"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Laboratory For Digital Cultures And Humanities Of The University Of Lausanne"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Law"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Leipzig University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Lev Manovich"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Library Of Congress Control Number"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Linguistics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Literary And Linguistic Computing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Literature"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Mainz"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Mainzed"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Maryland Institute For Technology In The Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Media Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Media Theory Of Composition"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Metadata"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Modern Language Association"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Multimedia"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Multimedia Literacy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Music"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="National Endowment For The Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Natural Language Processing"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Neologism"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="New Media"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="New Media Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Omeka"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Open Access"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Open Source"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Open Standards"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Performing Arts"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Philosophy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Politics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Proceedings Of The National Academy Of Sciences Of The United States Of America"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Qualcomm Institute"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Readability"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Religious Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Roberto Busa"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Siggraph"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Scholars' Lab"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Science (Journal)"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Semantic Web"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Shakespeare"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Social Sciences And Humanities Research Council"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Social Network Analysis"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Social Sciences"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Society For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Sociology"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Software Studies"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Southern Spaces"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Stanford Encyclopedia Of Philosophy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Stanley Fish"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Statistics"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Sussex Humanities Lab"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Systems Theory"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Thatcamp"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Text Encoding Initiative"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Text Mining"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="The European Association For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="The European Summer University In Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="The New York Times"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="The Valley Of The Shadow"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="The William Blake Archive"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Thomas Aquinas"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Topic Modeling"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Transliteracy"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Ucl Centre For Digital Humanities"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Umanistica Digitale"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University College London"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of California, Los Angeles"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Glasgow"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Graz"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Helsinki"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Maryland"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Nebraska-Lincoln"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Southern California"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Sussex"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Victoria"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="University Of Virginia"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Unix"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Vectors Journal Of Culture And Technology In A Dynamic Vernacular"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Virtual Reality"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Visual Arts"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Voyant Tools"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Walt Whitman"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Washington State University"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Women Writers Project"/>
+<edge source="Alliance Of Digital Humanities Organizations" target="Wordpress"/>
+<edge source="Alternate Reality Game" target="Association For Literary And Linguistic Computing"/>
+<edge source="Alternate Reality Game" target="Audiovisual"/>
+<edge source="Alternate Reality Game" target="Augmented Reality"/>
+<edge source="Alternate Reality Game" target="Content Analysis"/>
+<edge source="Alternate Reality Game" target="Digital Humanities Quarterly"/>
+<edge source="Alternate Reality Game" target="Digital Humanities Conference"/>
+<edge source="Alternate Reality Game" target="Digital Humanities"/>
+<edge source="Alternate Reality Game" target="Electronic Publishing"/>
+<edge source="Alternate Reality Game" target="Gothenburg"/>
+<edge source="Alternate Reality Game" target="Humanism"/>
+<edge source="Alternate Reality Game" target="Italy"/>
+<edge source="Alternate Reality Game" target="Literary And Linguistic Computing"/>
+<edge source="Alternate Reality Game" target="Mcmaster University"/>
+<edge source="Alternate Reality Game" target="New Media Studies"/>
+<edge source="Alternate Reality Game" target="Oxford University Press"/>
+<edge source="Alternate Reality Game" target="Roberto Busa"/>
+<edge source="Alternate Reality Game" target="Semantic Web"/>
+<edge source="Alternate Reality Game" target="Society For Digital Humanities"/>
+<edge source="Alternate Reality Game" target="Susan Hockey"/>
+<edge source="Alternate Reality Game" target="Textual Scholarship"/>
+<edge source="Alternate Reality Game" target="Tübingen"/>
+<edge source="Alternate Reality Game" target="University Of Nebraska"/>
+<edge source="Alternate Reality Game" target="University Of Toronto"/>
+<edge source="Alternate Reality Game" target="Victoria, British Columbia"/>
+<edge source="Alternate Reality Game" target="Willard Mccarty"/>
+<edge source="Alternate Reality Game" target="Xml"/>
+</graph></graphml>
