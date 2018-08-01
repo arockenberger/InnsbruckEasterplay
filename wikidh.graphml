@@ -41,7 +41,6 @@
 <node id="David G. Hays"/>
 <node id="Department Of Digital Humanities"/>
 <node id="Digital Classicist"/>
-<node id="Digital Humanities Quarterly"/>
 <node id="Digital Humanities Summer Institute"/>
 <node id="Digital Humanities Conference"/>
 <node id="Digital Literary Studies"/>
@@ -250,7 +249,6 @@
 <edge source="Alliance Of Digital Humanities Organizations" target="Department Of Digital Humanities"/>
 <edge source="Alliance Of Digital Humanities Organizations" target="Digital Classicist"/>
 <edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities"/>
-<edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Quarterly"/>
 <edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Summer Institute"/>
 <edge source="Alliance Of Digital Humanities Organizations" target="Digital Humanities Conference"/>
 <edge source="Alliance Of Digital Humanities Organizations" target="Digital Literary Studies"/>
@@ -403,7 +401,6 @@
 <edge source="Alternate Reality Game" target="Audiovisual"/>
 <edge source="Alternate Reality Game" target="Augmented Reality"/>
 <edge source="Alternate Reality Game" target="Content Analysis"/>
-<edge source="Alternate Reality Game" target="Digital Humanities Quarterly"/>
 <edge source="Alternate Reality Game" target="Digital Humanities Conference"/>
 <edge source="Alternate Reality Game" target="Digital Humanities"/>
 <edge source="Alternate Reality Game" target="Electronic Publishing"/>
