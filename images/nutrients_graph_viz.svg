@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1039.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-479.000000 -595.000000 1039.000000 978.000000" height="978.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L -87.861916,-401.107483"
+              class="id_A id_carrots" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L -59.349339,-69.479050"
+              class="id_A id_eggs" stroke-opacity="0.7490196" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L 134.453674,-100.342308"
+              class="id_A id_fatty_fish" stroke-opacity="0.7490196"
+              stroke="#ec768e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L -275.324554,-218.326828"
+              class="id_A id_green_leafy_vegs" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L 210.438126,77.429749"
+              class="id_A id_liver" stroke-opacity="0.7490196" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L -103.437798,-272.197357"
+              class="id_A id_milk" stroke-opacity="0.7490196" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 3.765232,-241.322998 L -36.569679,-476.805634"
+              class="id_A id_tomatoes" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 34.602280,-79.986328 L -103.437798,-272.197357"
+              class="id_B12 id_milk" stroke-opacity="0.7490196" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 419.078186,185.806412"
+              class="id_B6 id_asparagus" stroke-opacity="0.7490196"
+              stroke="#57a737"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 217.891617,286.486572"
+              class="id_B6 id_beans" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 134.453674,-100.342308"
+              class="id_B6 id_fatty_fish" stroke-opacity="0.7490196"
+              stroke="#c59422"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 107.537407,316.617615"
+              class="id_B6 id_kidneys" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 210.438126,77.429749"
+              class="id_B6 id_liver" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 262.888092,190.202942 L 177.712936,363.430878"
+              class="id_B6 id_potatoes" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -182.392136,-482.806244 L -87.861916,-401.107483"
+              class="id_C id_carrots" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -182.392136,-482.806244 L -192.570251,-584.133179"
+              class="id_C id_pumpkins" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -182.392136,-482.806244 L -36.569679,-476.805634"
+              class="id_C id_tomatoes" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -328.809540,-407.421936 L -283.505737,-517.350464"
+              class="id_Ca id_broccoli" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -328.809540,-407.421936 L -420.780731,-444.883789"
+              class="id_Ca id_cheese" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 17.503326,346.956726 L 210.438126,77.429749"
+              class="id_Cu id_liver" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 17.503326,346.956726 L -176.251724,182.045135"
+              class="id_Cu id_nuts" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 17.503326,346.956726 L -225.319305,284.422302"
+              class="id_Cu id_whole_grains" stroke-opacity="0.7490196"
+              stroke="#c59422"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.094681,-286.853912 L 134.453674,-100.342308"
+              class="id_D id_fatty_fish" stroke-opacity="0.7490196"
+              stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.094681,-286.853912 L -103.437798,-272.197357"
+              class="id_D id_milk" stroke-opacity="0.7490196" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 125.094681,-286.853912 L 191.151352,-353.826660"
+              class="id_D id_mushrooms" stroke-opacity="0.7490196"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -367.200287,-21.807180 L -176.251724,182.045135"
+              class="id_E id_nuts" stroke-opacity="0.7490196" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -367.200287,-21.807180 L -284.818573,49.226536"
+              class="id_E id_seeds" stroke-opacity="0.7490196" stroke="#ec768e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -275.324554,-218.326828"
+              class="id_Mn id_green_leafy_vegs" stroke-opacity="0.7490196"
+              stroke="#ec768e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -280.514587,-30.156662"
+              class="id_Mn id_legumes" stroke-opacity="0.7490196"
+              stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -176.251724,182.045135"
+              class="id_Mn id_nuts" stroke-opacity="0.7490196" stroke="#c59422"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -284.818573,49.226536"
+              class="id_Mn id_seeds" stroke-opacity="0.7490196" stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -445.806458,158.190598"
+              class="id_Mn id_wheat" stroke-opacity="0.7490196" stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -345.439697,113.573387 L -225.319305,284.422302"
+              class="id_Mn id_whole_grains" stroke-opacity="0.7490196"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 114.981728,203.535370 L 217.891617,286.486572"
+              class="id_Zn id_beans" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 114.981728,203.535370 L 107.537407,316.617615"
+              class="id_Zn id_kidneys" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 114.981728,203.535370 L 177.712936,363.430878"
+              class="id_Zn id_potatoes" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 217.891617,286.486572 L 17.503326,346.956726"
+              class="id_beans id_Cu" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 21.909170,49.185791 L 34.602280,-79.986328"
+              class="id_beef id_B12" stroke-opacity="0.7490196" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 21.909170,49.185791 L 262.888092,190.202942"
+              class="id_beef id_B6" stroke-opacity="0.7490196" stroke="#46c07f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 21.909170,49.185791 L 114.981728,203.535370"
+              class="id_beef id_Zn" stroke-opacity="0.7490196" stroke="#46c07f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 21.909170,49.185791 L -166.353027,-120.487892"
+              class="id_beef id_riboflavin" stroke-opacity="0.7490196"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -283.505737,-517.350464 L -182.392136,-482.806244"
+              class="id_broccoli id_C" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -59.349339,-69.479050 L 34.602280,-79.986328"
+              class="id_eggs id_B12" stroke-opacity="0.7490196" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -59.349339,-69.479050 L -166.353027,-120.487892"
+              class="id_eggs id_riboflavin" stroke-opacity="0.7490196"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 134.453674,-100.342308 L 34.602280,-79.986328"
+              class="id_fatty_fish id_B12" stroke-opacity="0.7490196"
+              stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 134.453674,-100.342308 L -124.988892,85.278091"
+              class="id_fatty_fish id_niacin" stroke-opacity="0.7490196"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 431.169006,96.986000 L 419.078186,185.806412"
+              class="id_folates id_asparagus" stroke-opacity="0.7490196"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 431.169006,96.986000 L 210.438126,77.429749"
+              class="id_folates id_liver" stroke-opacity="0.7490196"
+              stroke="#57a737"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 431.169006,96.986000 L 549.870178,125.928299"
+              class="id_folates id_spinach" stroke-opacity="0.7490196"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -275.324554,-218.326828 L -182.392136,-482.806244"
+              class="id_green_leafy_vegs id_C" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -275.324554,-218.326828 L -328.809540,-407.421936"
+              class="id_green_leafy_vegs id_Ca" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -275.324554,-218.326828 L -367.200287,-21.807180"
+              class="id_green_leafy_vegs id_E" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -275.324554,-218.326828 L -166.353027,-120.487892"
+              class="id_green_leafy_vegs id_riboflavin"
+              stroke-opacity="0.7490196" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 107.537407,316.617615 L 17.503326,346.956726"
+              class="id_kidneys id_Cu" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -280.514587,-30.156662 L -166.353027,-120.487892"
+              class="id_legumes id_riboflavin" stroke-opacity="0.7490196"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 210.438126,77.429749 L 114.981728,203.535370"
+              class="id_liver id_Zn" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -103.437798,-272.197357 L -328.809540,-407.421936"
+              class="id_milk id_Ca" stroke-opacity="0.7490196" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -103.437798,-272.197357 L -166.353027,-120.487892"
+              class="id_milk id_riboflavin" stroke-opacity="0.7490196"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -124.988892,85.278091 L 21.909170,49.185791"
+              class="id_niacin id_beef" stroke-opacity="0.7490196"
+              stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -124.988892,85.278091 L -176.251724,182.045135"
+              class="id_niacin id_nuts" stroke-opacity="0.7490196"
+              stroke="#c59422"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -124.988892,85.278091 L -284.818573,49.226536"
+              class="id_niacin id_seeds" stroke-opacity="0.7490196"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -124.988892,85.278091 L -225.319305,284.422302"
+              class="id_niacin id_whole_grains" stroke-opacity="0.7490196"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -176.251724,182.045135 L 114.981728,203.535370"
+              class="id_nuts id_Zn" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 177.712936,363.430878 L 17.503326,346.956726"
+              class="id_potatoes id_Cu" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 118.971054,85.080925 L 34.602280,-79.986328"
+              class="id_poultry id_B12" stroke-opacity="0.7490196"
+              stroke="#46c07f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 118.971054,85.080925 L 262.888092,190.202942"
+              class="id_poultry id_B6" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 118.971054,85.080925 L 114.981728,203.535370"
+              class="id_poultry id_Zn" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -72.409904,329.267700 L 17.503326,346.956726"
+              class="id_shellfish id_Cu" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -285.954681,365.936798 L -225.319305,284.422302"
+              class="id_thiamin id_whole_grains" stroke-opacity="0.7490196"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -36.569679,-476.805634 C 9.144608,-522.519897 9.144608,-431.091339 -36.569679,-476.805634"
+              class="id_tomatoes" stroke-opacity="0.7490196" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -468.099670,-31.096056 L -367.200287,-21.807180"
+              class="id_veg_oils id_E" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -395.819458,-485.992035 L -328.809540,-407.421936"
+              class="id_yogurt id_Ca" stroke-opacity="0.7490196"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -7.037283,192.943604 L 107.537407,316.617615"
+              class="id_1 id_kidneys" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -72.409904,329.267700 L -7.037283,192.943604"
+              class="id_shellfish id_1" stroke-opacity="0.7490196"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 210.438126,77.429749 L -7.037283,192.943604"
+              class="id_liver id_1" stroke-opacity="0.7490196" stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -7.037283,192.943604 L -59.349339,-69.479050"
+              class="id_1 id_eggs" stroke-opacity="0.7490196" stroke="#46c07f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -7.037283,192.943604 C 55.819859,130.086456 55.819859,255.800751 -7.037283,192.943604"
+              class="id_1" stroke-opacity="0.7490196" stroke="#8cb900"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d97dd8" r="35.714287" cx="3.7652318"
+                class="id_A" cy="-241.323" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="14.285715" cx="-87.861916"
+                class="id_carrots" cy="-401.10748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="22.857143" cx="-59.34934"
+                class="id_eggs" cy="-69.47905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="27.142859" cx="134.45367"
+                class="id_fatty_fish" cy="-100.34231" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="31.428572" cx="-275.32455"
+                class="id_green_leafy_vegs" cy="-218.32683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="31.428572" cx="210.43813"
+                class="id_liver" cy="77.42975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="27.142859" cx="-103.4378"
+                class="id_milk" cy="-272.19736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="22.857143" cx="-36.56968"
+                class="id_tomatoes" cy="-476.80563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="27.142859" cx="34.60228"
+                class="id_B12" cy="-79.98633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="262.8881"
+                class="id_B6" cy="190.20294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23966f" r="14.285715" cx="419.0782"
+                class="id_asparagus" cy="185.80641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="18.57143" cx="217.89162"
+                class="id_beans" cy="286.48657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="22.857143" cx="107.53741"
+                class="id_kidneys" cy="316.6176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="18.57143" cx="177.71294"
+                class="id_potatoes" cy="363.43088" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="27.142859" cx="-182.39214"
+                class="id_C" cy="-482.80624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="-192.57025"
+                class="id_pumpkins" cy="-584.1332" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="27.142859" cx="-328.80954"
+                class="id_Ca" cy="-407.42194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="14.285715" cx="-283.50574"
+                class="id_broccoli" cy="-517.35046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="-420.78073"
+                class="id_cheese" cy="-444.8838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="35.714287" cx="17.503326"
+                class="id_Cu" cy="346.95673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="27.142859" cx="-176.25172"
+                class="id_nuts" cy="182.04514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="22.857143" cx="-225.3193"
+                class="id_whole_grains" cy="284.4223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="18.57143" cx="125.09468"
+                class="id_D" cy="-286.8539" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="191.15135"
+                class="id_mushrooms" cy="-353.82666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="22.857143" cx="-367.2003"
+                class="id_E" cy="-21.80718" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="18.57143" cx="-284.81857"
+                class="id_seeds" cy="49.226536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="31.428572" cx="-345.4397"
+                class="id_Mn" cy="113.57339" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="14.285715" cx="-280.5146"
+                class="id_legumes" cy="-30.156662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-445.80646"
+                class="id_wheat" cy="158.1906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="35.714287" cx="114.98173"
+                class="id_Zn" cy="203.53537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="27.142859" cx="21.90917"
+                class="id_beef" cy="49.18579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="27.142859" cx="-166.35303"
+                class="id_riboflavin" cy="-120.48789" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="27.142859" cx="-124.98889"
+                class="id_niacin" cy="85.27809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23966f" r="18.57143" cx="431.169"
+                class="id_folates" cy="96.986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="549.8702"
+                class="id_spinach" cy="125.9283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="18.57143" cx="118.971054"
+                class="id_poultry" cy="85.080925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="14.285715" cx="-72.409904"
+                class="id_shellfish" cy="329.2677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-285.95468"
+                class="id_thiamin" cy="365.9368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="-468.09967"
+                class="id_veg_oils" cy="-31.096056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="-395.81946"
+                class="id_yogurt" cy="-485.99203" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="31.428572" cx="-7.0372834"
+                class="id_1" cy="192.9436" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="24" x="3.7652318" y="-237.02808"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_A" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            A
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-87.861916"
+              y="-396.83795" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_carrots" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            carrots
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-59.34934" y="-65.03374"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eggs" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            eggs
+        </text>
+        <text stroke-linecap="round" font-size="24" x="134.45367" y="-94.709496"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fatty_fish" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            fatty fish
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-275.32455"
+              y="-212.69402" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_green_leafy_vegs" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            green leafy vegs
+        </text>
+        <text stroke-linecap="round" font-size="24" x="210.43813" y="81.79498"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_liver" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            liver
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-103.4378" y="-267.90244"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_milk" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            milk
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-36.56968" y="-472.5361"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tomatoes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            tomatoes
+        </text>
+        <text stroke-linecap="round" font-size="24" x="34.60228" y="-75.67383"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_B12" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            B12
+        </text>
+        <text stroke-linecap="round" font-size="24" x="262.8881" y="194.58966"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_B6" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            B6
+        </text>
+        <text stroke-linecap="round" font-size="24" x="419.0782" y="190.25172"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_asparagus" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            asparagus
+        </text>
+        <text stroke-linecap="round" font-size="24" x="217.89162" y="290.8518"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_beans" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            beans
+        </text>
+        <text stroke-linecap="round" font-size="24" x="107.53741" y="322.1762"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kidneys" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            kidneys
+        </text>
+        <text stroke-linecap="round" font-size="24" x="177.71294" y="368.82346"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_potatoes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            potatoes
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-182.39214"
+              y="-478.36288" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_C" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            C
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-192.57025" y="-578.6449"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pumpkins" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            pumpkins
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-328.80954"
+              y="-402.97858" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ca" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            Ca
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-283.50574" y="-512.9852"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_broccoli" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            broccoli
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-420.78073"
+              y="-440.51855" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cheese" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            cheese
+        </text>
+        <text stroke-linecap="round" font-size="24" x="17.503326" y="351.4001"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cu" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            Cu
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-176.25172" y="186.31467"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nuts" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            nuts
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-225.3193" y="289.9809"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_whole_grains" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            whole grains
+        </text>
+        <text stroke-linecap="round" font-size="24" x="125.09468" y="-282.559"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_D" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            D
+        </text>
+        <text stroke-linecap="round" font-size="24" x="191.15135" y="-349.46143"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mushrooms" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            mushrooms
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-367.2003" y="-17.512259"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_E" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            E
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-284.81857" y="53.59177"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_seeds" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            seeds
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-345.4397" y="117.86831"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mn" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            Mn
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-280.5146" y="-24.598068"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_legumes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            legumes
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-445.80646" y="162.55583"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wheat" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            wheat
+        </text>
+        <text stroke-linecap="round" font-size="24" x="114.98173" y="207.83029"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zn" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            Zn
+        </text>
+        <text stroke-linecap="round" font-size="24" x="21.90917" y="53.625244"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_beef" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            beef
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-166.35303"
+              y="-116.04844" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_riboflavin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            riboflavin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-124.98889" y="89.643326"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_niacin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            niacin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="431.169" y="101.42545"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_folates" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            folates
+        </text>
+        <text stroke-linecap="round" font-size="24" x="549.8702" y="131.41658"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spinach" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            spinach
+        </text>
+        <text stroke-linecap="round" font-size="24" x="118.971054" y="90.63952"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_poultry" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            poultry
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-72.409904" y="333.70715"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_shellfish" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            shellfish
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-285.95468" y="370.30203"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thiamin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            thiamin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-468.09967"
+              y="-25.537462" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_veg_oils" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            veg oils
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-395.81946"
+              y="-480.52914" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_yogurt" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            yogurt
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-7.0372834" y="197.38696"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            Se
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="3.7652318" y="-237.02808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_A">
+            A
+        </text>
+        <text font-size="24" x="-87.861916" y="-396.83795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_carrots">
+            carrots
+        </text>
+        <text font-size="24" x="-59.34934" y="-65.03374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eggs">
+            eggs
+        </text>
+        <text font-size="24" x="134.45367" y="-94.709496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fatty_fish">
+            fatty fish
+        </text>
+        <text font-size="24" x="-275.32455" y="-212.69402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_green_leafy_vegs">
+            green leafy vegs
+        </text>
+        <text font-size="24" x="210.43813" y="81.79498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_liver">
+            liver
+        </text>
+        <text font-size="24" x="-103.4378" y="-267.90244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_milk">
+            milk
+        </text>
+        <text font-size="24" x="-36.56968" y="-472.5361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tomatoes">
+            tomatoes
+        </text>
+        <text font-size="24" x="34.60228" y="-75.67383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_B12">
+            B12
+        </text>
+        <text font-size="24" x="262.8881" y="194.58966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_B6">
+            B6
+        </text>
+        <text font-size="24" x="419.0782" y="190.25172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_asparagus">
+            asparagus
+        </text>
+        <text font-size="24" x="217.89162" y="290.8518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_beans">
+            beans
+        </text>
+        <text font-size="24" x="107.53741" y="322.1762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kidneys">
+            kidneys
+        </text>
+        <text font-size="24" x="177.71294" y="368.82346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_potatoes">
+            potatoes
+        </text>
+        <text font-size="24" x="-182.39214" y="-478.36288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_C">
+            C
+        </text>
+        <text font-size="24" x="-192.57025" y="-578.6449" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pumpkins">
+            pumpkins
+        </text>
+        <text font-size="24" x="-328.80954" y="-402.97858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ca">
+            Ca
+        </text>
+        <text font-size="24" x="-283.50574" y="-512.9852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_broccoli">
+            broccoli
+        </text>
+        <text font-size="24" x="-420.78073" y="-440.51855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cheese">
+            cheese
+        </text>
+        <text font-size="24" x="17.503326" y="351.4001" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cu">
+            Cu
+        </text>
+        <text font-size="24" x="-176.25172" y="186.31467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nuts">
+            nuts
+        </text>
+        <text font-size="24" x="-225.3193" y="289.9809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_whole_grains">
+            whole grains
+        </text>
+        <text font-size="24" x="125.09468" y="-282.559" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_D">
+            D
+        </text>
+        <text font-size="24" x="191.15135" y="-349.46143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mushrooms">
+            mushrooms
+        </text>
+        <text font-size="24" x="-367.2003" y="-17.512259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_E">
+            E
+        </text>
+        <text font-size="24" x="-284.81857" y="53.59177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_seeds">
+            seeds
+        </text>
+        <text font-size="24" x="-345.4397" y="117.86831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mn">
+            Mn
+        </text>
+        <text font-size="24" x="-280.5146" y="-24.598068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_legumes">
+            legumes
+        </text>
+        <text font-size="24" x="-445.80646" y="162.55583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wheat">
+            wheat
+        </text>
+        <text font-size="24" x="114.98173" y="207.83029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zn">
+            Zn
+        </text>
+        <text font-size="24" x="21.90917" y="53.625244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_beef">
+            beef
+        </text>
+        <text font-size="24" x="-166.35303" y="-116.04844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_riboflavin">
+            riboflavin
+        </text>
+        <text font-size="24" x="-124.98889" y="89.643326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_niacin">
+            niacin
+        </text>
+        <text font-size="24" x="431.169" y="101.42545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_folates">
+            folates
+        </text>
+        <text font-size="24" x="549.8702" y="131.41658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spinach">
+            spinach
+        </text>
+        <text font-size="24" x="118.971054" y="90.63952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_poultry">
+            poultry
+        </text>
+        <text font-size="24" x="-72.409904" y="333.70715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_shellfish">
+            shellfish
+        </text>
+        <text font-size="24" x="-285.95468" y="370.30203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thiamin">
+            thiamin
+        </text>
+        <text font-size="24" x="-468.09967" y="-25.537462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_veg_oils">
+            veg oils
+        </text>
+        <text font-size="24" x="-395.81946" y="-480.52914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_yogurt">
+            yogurt
+        </text>
+        <text font-size="24" x="-7.0372834" y="197.38696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1">
+            Se
+        </text>
+    </g>
+</svg>
