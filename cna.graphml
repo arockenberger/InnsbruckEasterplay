@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="Graph Drawing"/>
+<node id="Graph (Abstract Data Type)"/>
+<node id="Adjacency List"/>
+<node id="Vertex (Graph Theory)"/>
+<node id="Graph (Discrete Mathematics)"/>
+<node id="Adjacency Matrix"/>
+<node id="Degree (Graph Theory)"/>
+<node id="Incidence Matrix"/>
+<node id="Computer Science"/>
+<edge source="Adjacency List" target="Adjacency Matrix"/>
+<edge source="Adjacency List" target="Computer Science"/>
+<edge source="Adjacency List" target="Degree (Graph Theory)"/>
+<edge source="Adjacency List" target="Graph (Abstract Data Type)"/>
+<edge source="Adjacency List" target="Graph (Discrete Mathematics)"/>
+<edge source="Adjacency List" target="Graph Drawing"/>
+<edge source="Adjacency List" target="Incidence Matrix"/>
+<edge source="Adjacency List" target="Vertex (Graph Theory)"/>
+<edge source="Adjacency Matrix" target="Computer Science"/>
+<edge source="Adjacency Matrix" target="Degree (Graph Theory)"/>
+<edge source="Adjacency Matrix" target="Graph (Abstract Data Type)"/>
+<edge source="Adjacency Matrix" target="Graph (Discrete Mathematics)"/>
+<edge source="Adjacency Matrix" target="Graph Drawing"/>
+<edge source="Adjacency Matrix" target="Incidence Matrix"/>
+<edge source="Adjacency Matrix" target="Vertex (Graph Theory)"/>
+</graph></graphml>
