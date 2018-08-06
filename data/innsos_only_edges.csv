@@ -1,0 +1,530 @@
+source,target
+Pilatus,Scena
+Primus Miles,Scena
+Secundus Miles,Scena
+Tertius Miles,Scena
+Quartus Miles,Scena
+Expositor,Spectantes
+Pilatus,Spectantes
+Servus,Pilatus
+Primus Judaeus,Spectantes
+Secundus Judaeus,Spectantes
+Tertius Judaeus,Spectantes
+Quartus Judaeus,Spectantes
+Quintus Judaeus,Spectantes
+Primus Judaeus,Ignotus
+Primus Judaeus,Primus Judaeus
+Primus Judaeus,Secundus Judaeus
+Primus Judaeus,Tertius Judaeus
+Primus Judaeus,Quartus Judaeus
+Primus Judaeus,Quintus Judaeus
+Secundus Judaeus,Primus Judaeus
+Primus Judaeus,Pilatus
+Secundus Judaeus,Pilatus
+Tertius Judaeus,Pilatus
+Quartus Judaeus,Pilatus
+Quintus Judaeus,Pilatus
+Primus Judaeus,Spectantes
+Secundus Judaeus,Spectantes
+Tertius Judaeus,Spectantes
+Quartus Judaeus,Spectantes
+Quintus Judaeus,Spectantes
+Primus Judaeus,Pilatus
+Secundus Judaeus,Pilatus
+Tertius Judaeus,Pilatus
+Quartus Judaeus,Pilatus
+Quintus Judaeus,Pilatus
+Pilatus,Primus Judaeus
+Pilatus,Secundus Judaeus
+Pilatus,Tertius Judaeus
+Pilatus,Quartus Judaeus
+Pilatus,Quintus Judaeus
+Tertius Judaeus,Pilatus
+Pilatus,Primus Judaeus
+Pilatus,Secundus Judaeus
+Pilatus,Tertius Judaeus
+Pilatus,Quartus Judaeus
+Pilatus,Quintus Judaeus
+Quartus Judaeus,Pilatus
+Pilatus,Nuntius
+Nuntius,Pilatus
+Nuntius,Scena
+Nuntius,Primus Miles
+Nuntius,Secundus Miles
+Nuntius,Tertius Miles
+Nuntius,Quartus Miles
+Primus Miles,Nuntius
+Nuntius,Pilatus
+Nuntius,Pilatus
+Pilatus,Nuntius
+Nuntius,Pilatus
+Nuntius,Ignotus
+Nuntius,Primus Miles
+Nuntius,Secundus Miles
+Nuntius,Tertius Miles
+Nuntius,Quartus Miles
+Primus Miles,Pilatus
+Secundus Miles,Pilatus
+Tertius Miles,Pilatus
+Quartus Miles,Pilatus
+Primus Judaeus,Ignotus
+Secundus Judaeus,Ignotus
+Tertius Judaeus,Ignotus
+Quartus Judaeus,Ignotus
+Quintus Judaeus,Ignotus
+Primus Angelus,Spectantes
+Secundus Angelus,Spectantes
+Tertius Angelus,Spectantes
+Secundus Miles,Pilatus
+Pilatus,Secundus Miles
+Quintus Judaeus,Primus Miles
+Quintus Judaeus,Secundus Miles
+Quintus Judaeus,Tertius Miles
+Quintus Judaeus,Quartus Miles
+Tertius Miles,Quintus Judaeus
+Primus Miles,Sepulcrum
+Secundus Miles,Sepulcrum
+Tertius Miles,Sepulcrum
+Quartus Miles,Sepulcrum
+Quartus Miles,Primus Miles
+Quartus Miles,Secundus Miles
+Quartus Miles,Tertius Miles
+Quartus Miles,Quartus Miles
+Primus Miles,Primus Miles
+Primus Miles,Secundus Miles
+Primus Miles,Tertius Miles
+Primus Miles,Quartus Miles
+Primus Miles,Sepulcrum
+Secundus Miles,Sepulcrum
+Tertius Miles,Sepulcrum
+Quartus Miles,Sepulcrum
+Primus Angelus,Sepulcrum
+Secundus Angelus,Sepulcrum
+Tertius Angelus,Sepulcrum
+Primus Angelus,Primus Miles
+Secundus Angelus,Secundus Miles
+Tertius Angelus,Tertius Miles
+Primus Angelus,Ihesus
+Secundus Angelus,Ihesus
+Tertius Angelus,Ihesus
+Ihesus,Sepulcrum
+Pilatus,Nuntius
+Nuntius,Sepulcrum
+Nuntius,Primus Miles
+Nuntius,Secundus Miles
+Nuntius,Tertius Miles
+Nuntius,Quartus Miles
+Nuntius,Pilatus
+Nuntius,Pilatus
+Pilatus,Sepulcrum
+Nuntius,Sepulcrum
+Pilatus,Primus Miles
+Pilatus,Secundus Miles
+Pilatus,Tertius Miles
+Pilatus,Quartus Miles
+Tertius Miles,Pilatus
+Quartus Miles,Primus Miles
+Quartus Miles,Secundus Miles
+Quartus Miles,Tertius Miles
+Quartus Miles,Quartus Miles
+Primus Miles,Secundus Miles
+Secundus Miles,Primus Miles
+Tertius Miles,Primus Miles
+Quartus Miles,Primus Miles
+Tertius Miles,Secundus Miles
+Secundus Miles,Tertius Miles
+Primus Miles,Quartus Miles
+Ihesus,Infernum
+Primus Angelus,Infernum
+Secundus Angelus,Infernum
+Tertius Angelus,Infernum
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Adam,Ihesus
+Primus Angelus,Ihesus
+Secundus Angelus,Ihesus
+Tertius Angelus,Ihesus
+Lucifer,Ignotus
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Lucifer,Ignotus
+Primus Angelus,Lucifer
+Secundus Angelus,Lucifer
+Tertius Angelus,Lucifer
+Primus Angelus,Portus Inferni
+Lucifer,Ignotus
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Lucifer,Ignotus
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Lucifer,Ignotus
+Ihesus,Ignotus
+Lucifer,Ignotus
+Ihesus,Portus Inferni
+Daemones,Ignotus
+Ihesus,Adam
+Adam,Ihesus
+Eva,Ignotus
+Ihesus,Adam
+Ihesus,Adam
+Anima Infelix,Scena
+Diabolus,Anima Infelix
+Diabolus,Anima Infelix
+Anima Infelix,Ihesus
+Lucifer,Adam
+Lucifer,Palatium Luciferi
+Lucifer,Diabolus
+Sathanas,Lucifer
+Lucifer,Sathanas
+Sathanas,Lucifer
+Lucifer,Sathanas
+Sathanas,Lucifer
+Sathanas,Prima Anima
+Sathanas,Secunda Anima
+Sathanas,Tertia Anima
+Sathanas,Quarta Anima
+Sathanas,Quinta Anima
+Sathanas,Sexta Anima
+Sathanas,Septima Anima
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Sathanas,Infernum
+Prima Anima,Infernum
+Secunda Anima,Infernum
+Tertia Anima,Infernum
+Quarta Anima,Infernum
+Quinta Anima,Infernum
+Sexta Anima,Infernum
+Septima Anima,Infernum
+Sathanas,Lucifer
+Lucifer,Sathanas
+Prima Anima,Lucifer
+Secunda Anima,Lucifer
+Tertia Anima,Lucifer
+Quarta Anima,Lucifer
+Quinta Anima,Lucifer
+Sexta Anima,Lucifer
+Septima Anima,Lucifer
+Lucifer,Sathanas
+Sathanas,Prima Anima
+Sathanas,Secunda Anima
+Sathanas,Tertia Anima
+Sathanas,Quarta Anima
+Sathanas,Quinta Anima
+Sathanas,Sexta Anima
+Sathanas,Septima Anima
+Sathanas,Infernum
+Prima Anima,Infernum
+Secunda Anima,Infernum
+Tertia Anima,Infernum
+Quarta Anima,Infernum
+Quinta Anima,Infernum
+Sexta Anima,Infernum
+Septima Anima,Infernum
+Prima Maria,Ignotus
+Prima Maria,Ignotus
+Prima Maria,Ignotus
+Secunda Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Tertia Maria,Prima Maria
+Tertia Maria,Secunda Maria
+Mercator,Scena
+Uxor Mercatori,Scena
+Ancilla,Scena
+Mercator,Ignotus
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Rubin,Ignotus
+Rubin,Ignotus
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Ignotus
+Pusterbalk,Taberna
+Pusterbalk,Rubin
+Rubin,Pusterbalk
+Pusterbalk,Rubin
+Rubin,Pusterbalk
+Pusterbalk,Ignotus
+Mercator,Rubin
+Rubin,Mercator
+Rubin,Pusterbalk
+Pusterbalk,Taberna
+Pusterbalk,Rubin
+Rubin,Pusterbalk
+Rubin,Pusterbalk
+Pusterbalk,Rubin
+Rubin,Pusterbalk
+Mercator,Rubin
+Mercator,Pusterbalk
+Rubin,Ignotus
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Rubin
+Rubin,Lasterbalk
+Lasterbalk,Uxor Mercatori
+Lasterbalk,Uxor Mercatori
+Uxor Mercatori,Lasterbalk
+Lasterbalk,Uxor Mercatori
+Mercator,Rubin
+Rubin,Mercator
+Rubin,Ignotus
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Rubin,Taberna
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Marien
+Mercator,Rubin
+Rubin,Mercator
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Secunda Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Rubin
+Rubin,Mercator
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Tertia Maria,Rubin
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Prima Maria,Rubin
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Rubin,Taberna
+Prima Maria,Taberna
+Secunda Maria,Taberna
+Tertia Maria,Taberna
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Rubin,Mercator
+Mercator,Prima Maria
+Mercator,Secunda Maria
+Mercator,Tertia Maria
+Prima Maria,Mercator
+Secunda Maria,Mercator
+Tertia Maria,Mercator
+Mercator,Prima Maria
+Mercator,Secunda Maria
+Mercator,Tertia Maria
+Prima Maria,Mercator
+Secunda Maria,Mercator
+Tertia Maria,Mercator
+Rubin,Prima Maria
+Rubin,Secunda Maria
+Rubin,Tertia Maria
+Secunda Maria,Mercator
+Mercator,Secunda Maria
+Tertia Maria,Mercator
+Mercator,Tertia Maria
+Prima Maria,Mercator
+Mercator,Prima Maria
+Mercator,Secunda Maria
+Mercator,Tertia Maria
+Rubin,Mercator
+Tertia Maria,Mercator
+Mercator,Prima Maria
+Mercator,Secunda Maria
+Mercator,Tertia Maria
+Uxor Mercatori,Mercator
+Mercator,Uxor Mercatori
+Mercator,Uxor Mercatori
+Uxor Mercatori,Mercator
+Mercator,Uxor Mercatori
+Uxor Mercatori,Mercator
+Rubin,Mercator
+Ancilla,Rubin
+Rubin,Ancilla
+Ancilla,Rubin
+Rubin,Ignotus
+Mercator,Prima Maria
+Mercator,Secunda Maria
+Mercator,Tertia Maria
+Mercator,Rubin
+Rubin,Mercator
+Mercator,Taberna
+Rubin,Uxor Mercatori
+Uxor Mercatori,Rubin
+Rubin,Exire
+Uxor Mercatori,Exire
+Mercator,Taberna
+Mercator,Ignotus
+Primus Angelus,Ignotus
+Secundus Angelus,Ignotus
+Tertius Angelus,Ignotus
+Prima Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Prima Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Primus Angelus,Prima Maria
+Primus Angelus,Secunda Maria
+Primus Angelus,Tertia Maria
+Secundus Angelus,Prima Maria
+Secundus Angelus,Secunda Maria
+Secundus Angelus,Tertia Maria
+Tertius Angelus,Prima Maria
+Tertius Angelus,Secunda Maria
+Tertius Angelus,Tertia Maria
+Primus Angelus,Prima Maria
+Primus Angelus,Secunda Maria
+Primus Angelus,Tertia Maria
+Prima Maria,Primus Angelus
+Prima Maria,Secundus Angelus
+Prima Maria,Tertius Angelus
+Secunda Maria,Primus Angelus
+Secunda Maria,Secundus Angelus
+Secunda Maria,Tertius Angelus
+Tertia Maria,Primus Angelus
+Tertia Maria,Secundus Angelus
+Tertia Maria,Tertius Angelus
+Secunda Maria,Primus Angelus
+Secunda Maria,Secundus Angelus
+Secunda Maria,Tertius Angelus
+Secundus Angelus,Prima Maria
+Secundus Angelus,Secunda Maria
+Secundus Angelus,Tertia Maria
+Tertia Maria,Primus Angelus
+Tertia Maria,Secundus Angelus
+Tertia Maria,Tertius Angelus
+Primus Angelus,Prima Maria
+Primus Angelus,Secunda Maria
+Primus Angelus,Tertia Maria
+Secundus Angelus,Prima Maria
+Secundus Angelus,Secunda Maria
+Secundus Angelus,Tertia Maria
+Tertius Angelus,Prima Maria
+Tertius Angelus,Secunda Maria
+Tertius Angelus,Tertia Maria
+Tertius Angelus,Prima Maria
+Tertius Angelus,Secunda Maria
+Tertius Angelus,Tertia Maria
+Primus Angelus,Prima Maria
+Primus Angelus,Secunda Maria
+Primus Angelus,Tertia Maria
+Secundus Angelus,Prima Maria
+Secundus Angelus,Secunda Maria
+Secundus Angelus,Tertia Maria
+Tertius Angelus,Prima Maria
+Tertius Angelus,Secunda Maria
+Tertius Angelus,Tertia Maria
+Primus Angelus,Prima Maria
+Primus Angelus,Secunda Maria
+Primus Angelus,Tertia Maria
+Prima Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Prima Maria,Ignotus
+Secunda Maria,Ignotus
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Ihesus,Sepulcrum
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Ihesus,Sepulcrum
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ihesus
+Ihesus,Tertia Maria
+Tertia Maria,Ignotus
+Tertia Maria,Ignotus
+Thomas,Prima Maria
+Thomas,Secunda Maria
+Thomas,Tertia Maria
+Thomas,Tertia Maria
+Tertia Maria,Thomas
+Tertia Maria,Ignotus
+Thomas,Ihesus
+Ihesus,Thomas
+Tertia Maria,Ignotus
+Petrus,Tertia Maria
+Iohannes,Tertia Maria
+Petrus,Tertia Maria
+Iohannes,Tertia Maria
+Tertia Maria,Petrus
+Tertia Maria,Iohannes
+Petrus,Tertia Maria
+Tertia Maria,Petrus
+Petrus,Exire
+Iohannes,Exire
+Petrus,Ignotus
+Iohannes,Ignotus
+Petrus,Sepulcrum
+Iohannes,Sepulcrum
+Petrus,Ignotus
+Iohannes,Ignotus
+Petrus,Velum
+Iohannes,Velum
+Petrus,Spectantes
+Iohannes,Spectantes
+Petrus,Spectantes
+Iohannes,Spectantes
